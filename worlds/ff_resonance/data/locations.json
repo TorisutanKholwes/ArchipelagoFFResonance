@@ -1,0 +1,8439 @@
+{
+ "locations": [
+  {
+   "ap_id": 80200000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 2000,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_01Gra_20_0",
+   "logic": {
+    "progress": 1050,
+    "zone": 2000
+   },
+   "name": "Grandshelt - Town of Mitra Chest 0",
+   "region": "Grandshelt",
+   "vanilla_item": 77000031
+  },
+  {
+   "ap_id": 80200001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 2000,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_01Gra_20_1",
+   "logic": {
+    "progress": 1050,
+    "zone": 2000
+   },
+   "name": "Grandshelt - Town of Mitra Chest 1",
+   "region": "Grandshelt",
+   "vanilla_item": 77000041
+  },
+  {
+   "ap_id": 80200002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 2000,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_01Gra_20_2",
+   "logic": {
+    "progress": 1050,
+    "zone": 2000
+   },
+   "name": "Grandshelt - Town of Mitra Chest 2",
+   "region": "Grandshelt",
+   "vanilla_item": 77005001
+  },
+  {
+   "ap_id": 80200003,
+   "category": "chest",
+   "detect": {
+    "chest_id": 3,
+    "map_id": 2000,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_01Gra_20_3",
+   "logic": {
+    "progress": 1050,
+    "zone": 2000
+   },
+   "name": "Grandshelt - Town of Mitra Chest 3",
+   "region": "Grandshelt",
+   "vanilla_item": 77000043
+  },
+  {
+   "ap_id": 80200004,
+   "category": "chest",
+   "detect": {
+    "chest_id": 4,
+    "map_id": 2000,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_01Gra_20_4",
+   "logic": {
+    "progress": 1050,
+    "zone": 2000
+   },
+   "name": "Grandshelt - Town of Mitra Chest 4",
+   "region": "Grandshelt",
+   "vanilla_item": 77000031
+  },
+  {
+   "ap_id": 80200100,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 2001,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_01Gra_02_0",
+   "logic": {
+    "progress": 2000,
+    "zone": 2011
+   },
+   "name": "Grandshelt - Town_01Gra_02 Chest 0",
+   "region": "Grandshelt",
+   "vanilla_item": 77000043
+  },
+  {
+   "ap_id": 80200102,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 2001,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_01Gra_02_2",
+   "logic": {
+    "progress": 2000,
+    "zone": 2011
+   },
+   "name": "Grandshelt - Town_01Gra_02 Chest 2",
+   "region": "Grandshelt",
+   "vanilla_item": 78000400
+  },
+  {
+   "ap_id": 80201200,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 2012,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_01Gra_21_0",
+   "logic": {
+    "progress": 2000,
+    "zone": 2011
+   },
+   "name": "Grandshelt - Grandshelt Castle (Town_01Gra_21) Chest 0",
+   "region": "Grandshelt",
+   "vanilla_item": 77110241
+  },
+  {
+   "ap_id": 80201201,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 2012,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_01Gra_21_1",
+   "logic": {
+    "progress": 2000,
+    "zone": 2011
+   },
+   "name": "Grandshelt - Grandshelt Castle (Town_01Gra_21) Chest 1",
+   "region": "Grandshelt",
+   "vanilla_item": 77002093
+  },
+  {
+   "ap_id": 80201202,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 2012,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_01Gra_21_2",
+   "logic": {
+    "progress": 2000,
+    "zone": 2011
+   },
+   "name": "Grandshelt - Grandshelt Castle (Town_01Gra_21) Chest 2",
+   "region": "Grandshelt",
+   "vanilla_item": 77115031
+  },
+  {
+   "ap_id": 80201203,
+   "category": "chest",
+   "detect": {
+    "chest_id": 3,
+    "map_id": 2012,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_01Gra_21_3",
+   "logic": {
+    "progress": 2000,
+    "zone": 2011
+   },
+   "name": "Grandshelt - Grandshelt Castle (Town_01Gra_21) Chest 3",
+   "region": "Grandshelt",
+   "vanilla_item": 77000074
+  },
+  {
+   "ap_id": 80201204,
+   "category": "chest",
+   "detect": {
+    "chest_id": 4,
+    "map_id": 2012,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_01Gra_21_4",
+   "logic": {
+    "progress": 2000,
+    "zone": 2011
+   },
+   "name": "Grandshelt - Grandshelt Castle (Town_01Gra_21) Chest 4",
+   "region": "Grandshelt",
+   "vanilla_item": 77002092
+  },
+  {
+   "ap_id": 80201205,
+   "category": "chest",
+   "detect": {
+    "chest_id": 5,
+    "map_id": 2012,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_01Gra_21_5",
+   "logic": {
+    "progress": 2000,
+    "zone": 2011
+   },
+   "name": "Grandshelt - Grandshelt Castle (Town_01Gra_21) Chest 5",
+   "region": "Grandshelt",
+   "vanilla_item": 77000041
+  },
+  {
+   "ap_id": 80201206,
+   "category": "chest",
+   "detect": {
+    "chest_id": 6,
+    "map_id": 2012,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_01Gra_21_6",
+   "logic": {
+    "progress": 2000,
+    "zone": 2011
+   },
+   "name": "Grandshelt - Grandshelt Castle (Town_01Gra_21) Chest 6",
+   "region": "Grandshelt",
+   "vanilla_item": 77000042
+  },
+  {
+   "ap_id": 80201207,
+   "category": "chest",
+   "detect": {
+    "chest_id": 7,
+    "map_id": 2012,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_01Gra_21_7",
+   "logic": {
+    "progress": 2000,
+    "zone": 2011
+   },
+   "name": "Grandshelt - Grandshelt Castle (Town_01Gra_21) Chest 7",
+   "region": "Grandshelt",
+   "vanilla_item": 77110021
+  },
+  {
+   "ap_id": 80201208,
+   "category": "chest",
+   "detect": {
+    "chest_id": 8,
+    "map_id": 2012,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_01Gra_21_8",
+   "logic": {
+    "progress": 2000,
+    "zone": 2011
+   },
+   "name": "Grandshelt - Grandshelt Castle (Town_01Gra_21) Chest 8",
+   "region": "Grandshelt",
+   "vanilla_item": 77000351
+  },
+  {
+   "ap_id": 80201209,
+   "category": "chest",
+   "detect": {
+    "chest_id": 9,
+    "map_id": 2012,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_01Gra_21_9",
+   "logic": {
+    "progress": 2000,
+    "zone": 2011
+   },
+   "name": "Grandshelt - Grandshelt Castle (Town_01Gra_21) Chest 9",
+   "region": "Grandshelt",
+   "vanilla_item": 77000322
+  },
+  {
+   "ap_id": 80201503,
+   "category": "chest",
+   "detect": {
+    "chest_id": 3,
+    "map_id": 2015,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_01Gra_02_3",
+   "logic": {
+    "progress": 2000,
+    "zone": 2011
+   },
+   "name": "Grandshelt - Commercial District Chest 3",
+   "region": "Grandshelt",
+   "vanilla_item": 78000300
+  },
+  {
+   "ap_id": 80201504,
+   "category": "chest",
+   "detect": {
+    "chest_id": 4,
+    "map_id": 2015,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_01Gra_02_4",
+   "logic": {
+    "progress": 2000,
+    "zone": 2011
+   },
+   "name": "Grandshelt - Commercial District Chest 4",
+   "region": "Grandshelt",
+   "vanilla_item": 78000300
+  },
+  {
+   "ap_id": 80201505,
+   "category": "chest",
+   "detect": {
+    "chest_id": 5,
+    "map_id": 2015,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_01Gra_02_5",
+   "logic": {
+    "progress": 2000,
+    "zone": 2011
+   },
+   "name": "Grandshelt - Commercial District Chest 5",
+   "region": "Grandshelt",
+   "vanilla_item": 77000191
+  },
+  {
+   "ap_id": 80202000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 2020,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_02Lan_20_0",
+   "logic": {
+    "progress": 1130,
+    "zone": 2020
+   },
+   "name": "Lanzelt - Village of Kol Chest 0",
+   "region": "Lanzelt",
+   "vanilla_item": 77005001
+  },
+  {
+   "ap_id": 80202001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 2020,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_02Lan_20_1",
+   "logic": {
+    "progress": 1130,
+    "zone": 2020
+   },
+   "name": "Lanzelt - Village of Kol Chest 1",
+   "region": "Lanzelt",
+   "vanilla_item": 77000073
+  },
+  {
+   "ap_id": 80203000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 2030,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_02Lan_21_0",
+   "logic": {
+    "progress": 1205,
+    "zone": 2030
+   },
+   "name": "Lanzelt - Grandport Harbor Chest 0",
+   "region": "Lanzelt",
+   "vanilla_item": 77000242
+  },
+  {
+   "ap_id": 80203001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 2030,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_02Lan_21_1",
+   "logic": {
+    "progress": 1205,
+    "zone": 2030
+   },
+   "name": "Lanzelt - Grandport Harbor Chest 1",
+   "region": "Lanzelt",
+   "vanilla_item": 77002132
+  },
+  {
+   "ap_id": 80203100,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 2031,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_02Lan_22_0",
+   "logic": {
+    "all": true
+   },
+   "name": "Lanzelt - Oblivion Palace Safe (3 Tablet Shards)",
+   "region": "Lanzelt",
+   "shard_safe": 3,
+   "vanilla_item": 77120631
+  },
+  {
+   "ap_id": 80203101,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 2031,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_02Lan_22_1",
+   "logic": {
+    "all": true
+   },
+   "name": "Lanzelt - Oblivion Palace Safe (6 Tablet Shards)",
+   "region": "Lanzelt",
+   "shard_safe": 6,
+   "vanilla_item": 77120231
+  },
+  {
+   "ap_id": 80203102,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 2031,
+    "method": "treasure_box_keep"
+   },
+   "game_row": "Town_02Lan_22_2",
+   "logic": {
+    "all": true
+   },
+   "name": "Lanzelt - Oblivion Palace Safe (9 Tablet Shards)",
+   "note": "vanilla reward Magicite Shard kept (check only)",
+   "region": "Lanzelt",
+   "shard_safe": 9,
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 80203103,
+   "category": "chest",
+   "detect": {
+    "chest_id": 3,
+    "map_id": 2031,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_02Lan_22_3",
+   "logic": {
+    "all": true
+   },
+   "name": "Lanzelt - Oblivion Palace Safe (12 Tablet Shards)",
+   "region": "Lanzelt",
+   "shard_safe": 12,
+   "vanilla_item": 77120601
+  },
+  {
+   "ap_id": 80203104,
+   "category": "chest",
+   "detect": {
+    "chest_id": 4,
+    "map_id": 2031,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_02Lan_22_4",
+   "logic": {
+    "all": true
+   },
+   "name": "Lanzelt - Oblivion Palace Safe (16 Tablet Shards)",
+   "region": "Lanzelt",
+   "shard_safe": 16,
+   "vanilla_item": 77104101
+  },
+  {
+   "ap_id": 80203105,
+   "category": "chest",
+   "detect": {
+    "chest_id": 5,
+    "map_id": 2031,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_02Lan_22_5",
+   "logic": {
+    "all": true
+   },
+   "name": "Lanzelt - Oblivion Palace Safe (20 Tablet Shards)",
+   "region": "Lanzelt",
+   "shard_safe": 20,
+   "vanilla_item": 77103151
+  },
+  {
+   "ap_id": 80203106,
+   "category": "chest",
+   "detect": {
+    "chest_id": 6,
+    "map_id": 2031,
+    "method": "treasure_box_keep"
+   },
+   "game_row": "Town_02Lan_22_6",
+   "logic": {
+    "all": true
+   },
+   "name": "Lanzelt - Oblivion Palace Safe (24 Tablet Shards)",
+   "note": "vanilla reward Magicite Shard kept (check only)",
+   "region": "Lanzelt",
+   "shard_safe": 24,
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 80203107,
+   "category": "chest",
+   "detect": {
+    "chest_id": 7,
+    "map_id": 2031,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_02Lan_22_7",
+   "logic": {
+    "all": true
+   },
+   "name": "Lanzelt - Oblivion Palace Safe (28 Tablet Shards)",
+   "region": "Lanzelt",
+   "shard_safe": 28,
+   "vanilla_item": 77110191
+  },
+  {
+   "ap_id": 80203108,
+   "category": "chest",
+   "detect": {
+    "chest_id": 8,
+    "map_id": 2031,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_02Lan_22_8",
+   "logic": {
+    "all": true
+   },
+   "name": "Lanzelt - Oblivion Palace Safe (32 Tablet Shards)",
+   "region": "Lanzelt",
+   "shard_safe": 32,
+   "vanilla_item": 77103201
+  },
+  {
+   "ap_id": 80203109,
+   "category": "chest",
+   "detect": {
+    "chest_id": 9,
+    "map_id": 2031,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_02Lan_22_9",
+   "logic": {
+    "all": true
+   },
+   "name": "Lanzelt - Oblivion Palace Safe (36 Tablet Shards)",
+   "region": "Lanzelt",
+   "shard_safe": 36,
+   "vanilla_item": 77105091
+  },
+  {
+   "ap_id": 80203110,
+   "category": "chest",
+   "detect": {
+    "chest_id": 10,
+    "map_id": 2031,
+    "method": "treasure_box_keep"
+   },
+   "game_row": "Town_02Lan_22_10",
+   "logic": {
+    "all": true
+   },
+   "name": "Lanzelt - Oblivion Palace Safe (40 Tablet Shards)",
+   "note": "vanilla reward Magicite kept (check only)",
+   "region": "Lanzelt",
+   "shard_safe": 40,
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 80203111,
+   "category": "chest",
+   "detect": {
+    "chest_id": 11,
+    "map_id": 2031,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_02Lan_22_11",
+   "logic": {
+    "all": true
+   },
+   "name": "Lanzelt - Oblivion Palace Safe (44 Tablet Shards)",
+   "region": "Lanzelt",
+   "shard_safe": 44,
+   "vanilla_item": 77115271
+  },
+  {
+   "ap_id": 80203112,
+   "category": "chest",
+   "detect": {
+    "chest_id": 12,
+    "map_id": 2031,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_02Lan_22_12",
+   "logic": {
+    "all": true
+   },
+   "name": "Lanzelt - Oblivion Palace Safe (48 Tablet Shards)",
+   "region": "Lanzelt",
+   "shard_safe": 48,
+   "vanilla_item": 77107091
+  },
+  {
+   "ap_id": 80203113,
+   "category": "chest",
+   "detect": {
+    "chest_id": 13,
+    "map_id": 2031,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_02Lan_22_13",
+   "logic": {
+    "all": true
+   },
+   "name": "Lanzelt - Oblivion Palace Safe (52 Tablet Shards)",
+   "region": "Lanzelt",
+   "shard_safe": 52,
+   "vanilla_item": 77113211
+  },
+  {
+   "ap_id": 80203114,
+   "category": "chest",
+   "detect": {
+    "chest_id": 14,
+    "map_id": 2031,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_02Lan_22_14",
+   "logic": {
+    "all": true
+   },
+   "name": "Lanzelt - Oblivion Palace Safe (56 Tablet Shards)",
+   "region": "Lanzelt",
+   "shard_safe": 56,
+   "vanilla_item": 77101251
+  },
+  {
+   "ap_id": 80203115,
+   "category": "chest",
+   "detect": {
+    "chest_id": 15,
+    "map_id": 2031,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_02Lan_22_15",
+   "logic": {
+    "all": true
+   },
+   "name": "Lanzelt - Oblivion Palace Safe (60 Tablet Shards)",
+   "region": "Lanzelt",
+   "shard_safe": 60,
+   "vanilla_item": 77108111
+  },
+  {
+   "ap_id": 80203116,
+   "category": "chest",
+   "detect": {
+    "chest_id": 16,
+    "map_id": 2031,
+    "method": "treasure_box_keep"
+   },
+   "game_row": "Town_02Lan_22_16",
+   "logic": {
+    "all": true
+   },
+   "name": "Lanzelt - Oblivion Palace Safe (64 Tablet Shards)",
+   "note": "vanilla reward Magicite Cryst kept (check only)",
+   "region": "Lanzelt",
+   "shard_safe": 64,
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 80203117,
+   "category": "chest",
+   "detect": {
+    "chest_id": 17,
+    "map_id": 2031,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_02Lan_22_17",
+   "logic": {
+    "all": true
+   },
+   "name": "Lanzelt - Oblivion Palace Safe (68 Tablet Shards)",
+   "region": "Lanzelt",
+   "shard_safe": 68,
+   "vanilla_item": 77110251
+  },
+  {
+   "ap_id": 80203118,
+   "category": "chest",
+   "detect": {
+    "chest_id": 18,
+    "map_id": 2031,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_02Lan_22_18",
+   "logic": {
+    "all": true
+   },
+   "name": "Lanzelt - Oblivion Palace Safe (72 Tablet Shards)",
+   "region": "Lanzelt",
+   "shard_safe": 72,
+   "vanilla_item": 77102231
+  },
+  {
+   "ap_id": 80203119,
+   "category": "chest",
+   "detect": {
+    "chest_id": 19,
+    "map_id": 2031,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_02Lan_22_19",
+   "logic": {
+    "all": true
+   },
+   "name": "Lanzelt - Oblivion Palace Safe (76 Tablet Shards)",
+   "region": "Lanzelt",
+   "shard_safe": 76,
+   "vanilla_item": 77107981
+  },
+  {
+   "ap_id": 80203120,
+   "category": "chest",
+   "detect": {
+    "chest_id": 20,
+    "map_id": 2031,
+    "method": "treasure_box_keep"
+   },
+   "game_row": "Town_02Lan_22_20",
+   "logic": {
+    "all": true
+   },
+   "name": "Lanzelt - Oblivion Palace Safe (80 Tablet Shards)",
+   "note": "vanilla reward Adamantite kept (check only)",
+   "region": "Lanzelt",
+   "shard_safe": 80,
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 80203121,
+   "category": "chest",
+   "detect": {
+    "chest_id": 21,
+    "map_id": 2031,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_02Lan_22_21",
+   "logic": {
+    "all": true
+   },
+   "name": "Lanzelt - Oblivion Palace Safe (84 Tablet Shards)",
+   "region": "Lanzelt",
+   "shard_safe": 84,
+   "vanilla_item": 77106971
+  },
+  {
+   "ap_id": 80203122,
+   "category": "chest",
+   "detect": {
+    "chest_id": 22,
+    "map_id": 2031,
+    "method": "treasure_box_keep"
+   },
+   "game_row": "Town_02Lan_22_22",
+   "logic": {
+    "all": true
+   },
+   "name": "Lanzelt - Oblivion Palace Safe (89 Tablet Shards)",
+   "note": "vanilla reward Adamantite kept (check only)",
+   "region": "Lanzelt",
+   "shard_safe": 89,
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 80203123,
+   "category": "chest",
+   "detect": {
+    "chest_id": 23,
+    "map_id": 2031,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_02Lan_22_23",
+   "logic": {
+    "all": true
+   },
+   "name": "Lanzelt - Oblivion Palace Safe (94 Tablet Shards)",
+   "region": "Lanzelt",
+   "shard_safe": 94,
+   "vanilla_item": 77105221
+  },
+  {
+   "ap_id": 80203124,
+   "category": "chest",
+   "detect": {
+    "chest_id": 24,
+    "map_id": 2031,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_02Lan_22_24",
+   "logic": {
+    "all": true
+   },
+   "name": "Lanzelt - Oblivion Palace Safe (99 Tablet Shards)",
+   "region": "Lanzelt",
+   "shard_safe": 99,
+   "vanilla_item": 77101961
+  },
+  {
+   "ap_id": 80204000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 2040,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_03Kol_20_0",
+   "logic": {
+    "progress": 1170,
+    "zone": 2040
+   },
+   "name": "Kolobos - Town of Felicitas Chest 0",
+   "region": "Kolobos",
+   "vanilla_item": 77005001
+  },
+  {
+   "ap_id": 80204001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 2040,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_03Kol_20_1",
+   "logic": {
+    "progress": 1170,
+    "zone": 2040
+   },
+   "name": "Kolobos - Town of Felicitas Chest 1",
+   "region": "Kolobos",
+   "vanilla_item": 77000242
+  },
+  {
+   "ap_id": 80204002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 2040,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_03Kol_20_2",
+   "logic": {
+    "progress": 1170,
+    "zone": 2040
+   },
+   "name": "Kolobos - Town of Felicitas Chest 2",
+   "region": "Kolobos",
+   "vanilla_item": 77000132
+  },
+  {
+   "ap_id": 80204003,
+   "category": "chest",
+   "detect": {
+    "chest_id": 3,
+    "map_id": 2040,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_03Kol_20_3",
+   "logic": {
+    "progress": 1170,
+    "zone": 2040
+   },
+   "name": "Kolobos - Town of Felicitas Chest 3",
+   "region": "Kolobos",
+   "vanilla_item": 77002102
+  },
+  {
+   "ap_id": 80205000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 2050,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_04Dir_20_0",
+   "logic": {
+    "progress": 3000,
+    "zone": 2050
+   },
+   "name": "Dirnado - Dwarven Forge Chest 0",
+   "region": "Dirnado",
+   "vanilla_item": 77000043
+  },
+  {
+   "ap_id": 80205001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 2050,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_04Dir_20_1",
+   "logic": {
+    "progress": 3000,
+    "zone": 2050
+   },
+   "name": "Dirnado - Dwarven Forge Chest 1",
+   "region": "Dirnado",
+   "vanilla_item": 77120351
+  },
+  {
+   "ap_id": 80205002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 2050,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_04Dir_20_2",
+   "logic": {
+    "progress": 3000,
+    "zone": 2050
+   },
+   "name": "Dirnado - Dwarven Forge Chest 2",
+   "region": "Dirnado",
+   "vanilla_item": 77104031
+  },
+  {
+   "ap_id": 80206000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 2060,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_04Dir_01_1",
+   "logic": {
+    "progress": 2000,
+    "zone": 2060
+   },
+   "name": "Dirnado - Dilmagia, the Machinopolis Chest 0",
+   "region": "Dirnado",
+   "vanilla_item": 77120341
+  },
+  {
+   "ap_id": 80206001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 2060,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_04Dir_01_2",
+   "logic": {
+    "progress": 2000,
+    "zone": 2060
+   },
+   "name": "Dirnado - Dilmagia, the Machinopolis Chest 1",
+   "region": "Dirnado",
+   "vanilla_item": 78000500
+  },
+  {
+   "ap_id": 80206002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 2060,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_04Dir_01_3",
+   "logic": {
+    "progress": 2000,
+    "zone": 2060
+   },
+   "name": "Dirnado - Dilmagia, the Machinopolis Chest 2",
+   "region": "Dirnado",
+   "vanilla_item": 78000500
+  },
+  {
+   "ap_id": 80206103,
+   "category": "chest",
+   "detect": {
+    "chest_id": 3,
+    "map_id": 2061,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_04Dir_01_4",
+   "logic": {
+    "progress": 2000,
+    "zone": 2060
+   },
+   "name": "Dirnado - Shipyard Chest 3",
+   "region": "Dirnado",
+   "vanilla_item": 78000500
+  },
+  {
+   "ap_id": 80206104,
+   "category": "chest",
+   "detect": {
+    "chest_id": 4,
+    "map_id": 2061,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_04Dir_01_5",
+   "logic": {
+    "progress": 2000,
+    "zone": 2060
+   },
+   "name": "Dirnado - Shipyard Chest 4",
+   "region": "Dirnado",
+   "vanilla_item": 77110181
+  },
+  {
+   "ap_id": 80207000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 2070,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_05Old_01_0",
+   "logic": {
+    "progress": 3000,
+    "zone": 2070
+   },
+   "name": "Olderion - Olderion, the Aquapolis Chest 0",
+   "region": "Olderion",
+   "vanilla_item": 77103161
+  },
+  {
+   "ap_id": 80207001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 2070,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_05Old_01_1",
+   "logic": {
+    "progress": 3000,
+    "zone": 2070
+   },
+   "name": "Olderion - Olderion, the Aquapolis Chest 1",
+   "region": "Olderion",
+   "vanilla_item": 77120401
+  },
+  {
+   "ap_id": 80207002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 2070,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_05Old_01_2",
+   "logic": {
+    "progress": 3000,
+    "zone": 2070
+   },
+   "name": "Olderion - Olderion, the Aquapolis Chest 2",
+   "region": "Olderion",
+   "vanilla_item": 77115261
+  },
+  {
+   "ap_id": 80209000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 2090,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_05Old_21_0",
+   "logic": {
+    "progress": 3150,
+    "zone": 2090
+   },
+   "name": "Olderion - Town of Amore Chest 0",
+   "region": "Olderion",
+   "vanilla_item": 77104111
+  },
+  {
+   "ap_id": 80209001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 2090,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_05Old_21_1",
+   "logic": {
+    "progress": 3150,
+    "zone": 2090
+   },
+   "name": "Olderion - Town of Amore Chest 1",
+   "region": "Olderion",
+   "vanilla_item": 77002142
+  },
+  {
+   "ap_id": 80209002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 2090,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_05Old_21_2",
+   "logic": {
+    "progress": 3150,
+    "zone": 2090
+   },
+   "name": "Olderion - Town of Amore Chest 2",
+   "region": "Olderion",
+   "vanilla_item": 77115221
+  },
+  {
+   "ap_id": 80211000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 2110,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_06Zol_1_0",
+   "logic": {
+    "progress": 4060,
+    "zone": 2110
+   },
+   "name": "Zoldaad - Zoldaad, the Imperial Capital Chest 0",
+   "region": "Zoldaad",
+   "vanilla_item": 77000192
+  },
+  {
+   "ap_id": 80211301,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 2113,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_06Zol_1_1",
+   "logic": {
+    "progress": 4060,
+    "zone": 2110
+   },
+   "name": "Zoldaad - Imperial Residences Chest 1",
+   "region": "Zoldaad",
+   "vanilla_item": 77000371
+  },
+  {
+   "ap_id": 80212000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 2120,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_06Zol_21_0",
+   "logic": {
+    "progress": 4110,
+    "zone": 2120
+   },
+   "name": "Zoldaad - Rebel Hideout Chest 0",
+   "region": "Zoldaad",
+   "vanilla_item": 77000081
+  },
+  {
+   "ap_id": 80212001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 2120,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_06Zol_21_1",
+   "logic": {
+    "progress": 4110,
+    "zone": 2120
+   },
+   "name": "Zoldaad - Rebel Hideout Chest 1",
+   "region": "Zoldaad",
+   "vanilla_item": 77000371
+  },
+  {
+   "ap_id": 80212002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 2120,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_06Zol_21_2",
+   "logic": {
+    "progress": 4110,
+    "zone": 2120
+   },
+   "name": "Zoldaad - Rebel Hideout Chest 2",
+   "region": "Zoldaad",
+   "vanilla_item": 77115141
+  },
+  {
+   "ap_id": 80213000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 2130,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_07Mys_01_0",
+   "logic": {
+    "progress": 5020,
+    "zone": 2130
+   },
+   "name": "Magi Nation Mysidia - Mysidia, the Magiapolis Chest 0",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": 77000192
+  },
+  {
+   "ap_id": 80213001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 2130,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_07Mys_01_1",
+   "logic": {
+    "progress": 5020,
+    "zone": 2130
+   },
+   "name": "Magi Nation Mysidia - Mysidia, the Magiapolis Chest 1",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": 77101211
+  },
+  {
+   "ap_id": 80213002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 2130,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_07Mys_01_2",
+   "logic": {
+    "progress": 5020,
+    "zone": 2130
+   },
+   "name": "Magi Nation Mysidia - Mysidia, the Magiapolis Chest 2",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": 77000273
+  },
+  {
+   "ap_id": 80213003,
+   "category": "chest",
+   "detect": {
+    "chest_id": 3,
+    "map_id": 2130,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_07Mys_01_3",
+   "logic": {
+    "progress": 5020,
+    "zone": 2130
+   },
+   "name": "Magi Nation Mysidia - Mysidia, the Magiapolis Chest 3",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": 77103211
+  },
+  {
+   "ap_id": 80213004,
+   "category": "chest",
+   "detect": {
+    "chest_id": 4,
+    "map_id": 2130,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_07Mys_01_4",
+   "logic": {
+    "progress": 5020,
+    "zone": 2130
+   },
+   "name": "Magi Nation Mysidia - Mysidia, the Magiapolis Chest 4",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": 77120801
+  },
+  {
+   "ap_id": 80214000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 2140,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_07Mys_20_0",
+   "logic": {
+    "progress": 6000,
+    "zone": 2140
+   },
+   "name": "Magi Nation Mysidia - Village of Sunioo Chest 0",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": 77002052
+  },
+  {
+   "ap_id": 80214001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 2140,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_07Mys_20_1",
+   "logic": {
+    "progress": 6000,
+    "zone": 2140
+   },
+   "name": "Magi Nation Mysidia - Village of Sunioo Chest 1",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": 77108021
+  },
+  {
+   "ap_id": 80214002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 2140,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_07Mys_20_2",
+   "logic": {
+    "progress": 6000,
+    "zone": 2140
+   },
+   "name": "Magi Nation Mysidia - Village of Sunioo Chest 2",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": 77002072
+  },
+  {
+   "ap_id": 80214003,
+   "category": "chest",
+   "detect": {
+    "chest_id": 3,
+    "map_id": 2140,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_07Mys_20_3",
+   "logic": {
+    "progress": 6000,
+    "zone": 2140
+   },
+   "name": "Magi Nation Mysidia - Village of Sunioo Chest 3",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": 77000372
+  },
+  {
+   "ap_id": 80214004,
+   "category": "chest",
+   "detect": {
+    "chest_id": 4,
+    "map_id": 2140,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_07Mys_20_4",
+   "logic": {
+    "progress": 6000,
+    "zone": 2140
+   },
+   "name": "Magi Nation Mysidia - Village of Sunioo Chest 4",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": 77110211
+  },
+  {
+   "ap_id": 80215000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 2150,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_08Gro_01_0",
+   "logic": {
+    "progress": 6005,
+    "zone": 2150
+   },
+   "name": "Gronoa - Gaberada, the Undertown Chest 0",
+   "region": "Gronoa",
+   "vanilla_item": 77000081
+  },
+  {
+   "ap_id": 80215001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 2150,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_08Gro_01_1",
+   "logic": {
+    "progress": 6005,
+    "zone": 2150
+   },
+   "name": "Gronoa - Gaberada, the Undertown Chest 1",
+   "region": "Gronoa",
+   "vanilla_item": 77000371
+  },
+  {
+   "ap_id": 80215002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 2150,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_08Gro_01_2",
+   "logic": {
+    "progress": 6005,
+    "zone": 2150
+   },
+   "name": "Gronoa - Gaberada, the Undertown Chest 2",
+   "region": "Gronoa",
+   "vanilla_item": 77002073
+  },
+  {
+   "ap_id": 80216000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 2160,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_08Gro_20_0",
+   "logic": {
+    "progress": 7000,
+    "zone": 2160
+   },
+   "name": "Gronoa - Town of Duggle Chest 0",
+   "region": "Gronoa",
+   "vanilla_item": 77002072
+  },
+  {
+   "ap_id": 80216001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 2160,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_08Gro_20_1",
+   "logic": {
+    "progress": 7000,
+    "zone": 2160
+   },
+   "name": "Gronoa - Town of Duggle Chest 1",
+   "region": "Gronoa",
+   "vanilla_item": 77000142
+  },
+  {
+   "ap_id": 80217000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 2170,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_09Pha_01_0",
+   "logic": {
+    "progress": 7005,
+    "zone": 2170
+   },
+   "name": "Pharm - Town of Sian Chest 0",
+   "region": "Pharm",
+   "vanilla_item": 77000322
+  },
+  {
+   "ap_id": 80217001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 2170,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_09Pha_01_1",
+   "logic": {
+    "progress": 7005,
+    "zone": 2170
+   },
+   "name": "Pharm - Town of Sian Chest 1",
+   "region": "Pharm",
+   "vanilla_item": 77002072
+  },
+  {
+   "ap_id": 80217002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 2170,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_09Pha_01_2",
+   "logic": {
+    "progress": 7005,
+    "zone": 2170
+   },
+   "name": "Pharm - Town of Sian Chest 2",
+   "region": "Pharm",
+   "vanilla_item": 77000373
+  },
+  {
+   "ap_id": 80217003,
+   "category": "chest",
+   "detect": {
+    "chest_id": 3,
+    "map_id": 2170,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_09Pha_01_3",
+   "logic": {
+    "progress": 7005,
+    "zone": 2170
+   },
+   "name": "Pharm - Town of Sian Chest 3",
+   "region": "Pharm",
+   "vanilla_item": 77000351
+  },
+  {
+   "ap_id": 80219000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 2190,
+    "method": "treasure_box"
+   },
+   "game_row": "Town_09Pha_21_0",
+   "logic": {
+    "progress": 8000,
+    "zone": 2190
+   },
+   "name": "Pharm - Abandoned Cabin Chest 0",
+   "region": "Pharm",
+   "vanilla_item": 77108981
+  },
+  {
+   "ap_id": 80300000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 3000,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_01Gra_40_0",
+   "logic": {
+    "progress": 1020,
+    "zone": 3001
+   },
+   "name": "Grandshelt - Earth Shrine (Dng_01Gra_40) Chest 0",
+   "region": "Grandshelt",
+   "vanilla_item": 77113001
+  },
+  {
+   "ap_id": 80300001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 3000,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_01Gra_40_1",
+   "logic": {
+    "progress": 1020,
+    "zone": 3001
+   },
+   "name": "Grandshelt - Earth Shrine (Dng_01Gra_40) Chest 1",
+   "region": "Grandshelt",
+   "vanilla_item": 77000041
+  },
+  {
+   "ap_id": 80300002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 3000,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_01Gra_40_2",
+   "logic": {
+    "progress": 1020,
+    "zone": 3001
+   },
+   "name": "Grandshelt - Earth Shrine (Dng_01Gra_40) Chest 2",
+   "region": "Grandshelt",
+   "vanilla_item": 77102011
+  },
+  {
+   "ap_id": 80300003,
+   "category": "chest",
+   "detect": {
+    "chest_id": 3,
+    "map_id": 3000,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_01Gra_40_3",
+   "logic": {
+    "progress": 1020,
+    "zone": 3001
+   },
+   "name": "Grandshelt - Earth Shrine (Dng_01Gra_40) Chest 3",
+   "region": "Grandshelt",
+   "vanilla_item": 77002092
+  },
+  {
+   "ap_id": 80300004,
+   "category": "chest",
+   "detect": {
+    "chest_id": 4,
+    "map_id": 3000,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_01Gra_40_4",
+   "logic": {
+    "progress": 1020,
+    "zone": 3001
+   },
+   "name": "Grandshelt - Earth Shrine (Dng_01Gra_40) Chest 4",
+   "region": "Grandshelt",
+   "vanilla_item": 77000013
+  },
+  {
+   "ap_id": 80300005,
+   "category": "chest",
+   "detect": {
+    "chest_id": 5,
+    "map_id": 3000,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_01Gra_40_5",
+   "logic": {
+    "progress": 1020,
+    "zone": 3001
+   },
+   "name": "Grandshelt - Earth Shrine (Dng_01Gra_40) Chest 5",
+   "region": "Grandshelt",
+   "vanilla_item": 77120221
+  },
+  {
+   "ap_id": 80300006,
+   "category": "chest",
+   "detect": {
+    "chest_id": 6,
+    "map_id": 3000,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_01Gra_40_6",
+   "logic": {
+    "progress": 1020,
+    "zone": 3001
+   },
+   "name": "Grandshelt - Earth Shrine (Dng_01Gra_40) Chest 6",
+   "region": "Grandshelt",
+   "vanilla_item": 78000400
+  },
+  {
+   "ap_id": 80300100,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 3001,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_01Gra_43_0",
+   "logic": {
+    "progress": 1020,
+    "zone": 3001
+   },
+   "name": "Grandshelt - Earth Shrine (Dng_01Gra_43) Chest 0",
+   "region": "Grandshelt",
+   "vanilla_item": 77000011
+  },
+  {
+   "ap_id": 80300101,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 3001,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_01Gra_43_1",
+   "logic": {
+    "progress": 1020,
+    "zone": 3001
+   },
+   "name": "Grandshelt - Earth Shrine (Dng_01Gra_43) Chest 1",
+   "region": "Grandshelt",
+   "vanilla_item": 77000031
+  },
+  {
+   "ap_id": 80301001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 3010,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_01Gra_41_1",
+   "logic": {
+    "progress": 8000,
+    "zone": 3010
+   },
+   "name": "Grandshelt - Dragon's Maw Chest 1",
+   "region": "Grandshelt",
+   "vanilla_item": 77102951
+  },
+  {
+   "ap_id": 80301002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 3010,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_01Gra_41_2",
+   "logic": {
+    "progress": 8000,
+    "zone": 3010
+   },
+   "name": "Grandshelt - Dragon's Maw Chest 2",
+   "region": "Grandshelt",
+   "vanilla_item": 77101951
+  },
+  {
+   "ap_id": 80301003,
+   "category": "chest",
+   "detect": {
+    "chest_id": 3,
+    "map_id": 3010,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_01Gra_41_3",
+   "logic": {
+    "progress": 8000,
+    "zone": 3010
+   },
+   "name": "Grandshelt - Dragon's Maw Chest 3",
+   "region": "Grandshelt",
+   "vanilla_item": 77120711
+  },
+  {
+   "ap_id": 80301004,
+   "category": "chest",
+   "detect": {
+    "chest_id": 4,
+    "map_id": 3010,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_01Gra_41_4",
+   "logic": {
+    "progress": 8000,
+    "zone": 3010
+   },
+   "name": "Grandshelt - Dragon's Maw Chest 4",
+   "region": "Grandshelt",
+   "vanilla_item": 77000222
+  },
+  {
+   "ap_id": 80301005,
+   "category": "chest",
+   "detect": {
+    "chest_id": 5,
+    "map_id": 3010,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_01Gra_41_5",
+   "logic": {
+    "progress": 8000,
+    "zone": 3010
+   },
+   "name": "Grandshelt - Dragon's Maw Chest 5",
+   "region": "Grandshelt",
+   "vanilla_item": 77002083
+  },
+  {
+   "ap_id": 80301006,
+   "category": "chest",
+   "detect": {
+    "chest_id": 6,
+    "map_id": 3010,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_01Gra_41_6",
+   "logic": {
+    "progress": 8000,
+    "zone": 3010
+   },
+   "name": "Grandshelt - Dragon's Maw Chest 6",
+   "region": "Grandshelt",
+   "vanilla_item": 77104191
+  },
+  {
+   "ap_id": 80302000,
+   "battle": true,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 3020,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_01Gra_42_01_0",
+   "logic": {
+    "progress": 2000,
+    "zone": 2011
+   },
+   "name": "Grandshelt - Grandshelt Castle (Dng_01Gra_42_01) Chest 0",
+   "region": "Grandshelt",
+   "vanilla_item": 77110241
+  },
+  {
+   "ap_id": 80302001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 3020,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_01Gra_42_01_1",
+   "logic": {
+    "progress": 2000,
+    "zone": 2011
+   },
+   "name": "Grandshelt - Grandshelt Castle (Dng_01Gra_42_01) Chest 1",
+   "region": "Grandshelt",
+   "vanilla_item": 77002093
+  },
+  {
+   "ap_id": 80302002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 3020,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_01Gra_42_01_2",
+   "logic": {
+    "progress": 2000,
+    "zone": 2011
+   },
+   "name": "Grandshelt - Grandshelt Castle (Dng_01Gra_42_01) Chest 2",
+   "region": "Grandshelt",
+   "vanilla_item": 77115031
+  },
+  {
+   "ap_id": 80302003,
+   "category": "chest",
+   "detect": {
+    "chest_id": 3,
+    "map_id": 3020,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_01Gra_42_01_3",
+   "logic": {
+    "progress": 2000,
+    "zone": 2011
+   },
+   "name": "Grandshelt - Grandshelt Castle (Dng_01Gra_42_01) Chest 3",
+   "region": "Grandshelt",
+   "vanilla_item": 77000074
+  },
+  {
+   "ap_id": 80302004,
+   "category": "chest",
+   "detect": {
+    "chest_id": 4,
+    "map_id": 3020,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_01Gra_42_01_4",
+   "logic": {
+    "progress": 2000,
+    "zone": 2011
+   },
+   "name": "Grandshelt - Grandshelt Castle (Dng_01Gra_42_01) Chest 4",
+   "region": "Grandshelt",
+   "vanilla_item": 77002092
+  },
+  {
+   "ap_id": 80302005,
+   "category": "chest",
+   "detect": {
+    "chest_id": 5,
+    "map_id": 3020,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_01Gra_42_01_5",
+   "logic": {
+    "progress": 2000,
+    "zone": 2011
+   },
+   "name": "Grandshelt - Grandshelt Castle (Dng_01Gra_42_01) Chest 5",
+   "region": "Grandshelt",
+   "vanilla_item": 77000041
+  },
+  {
+   "ap_id": 80302006,
+   "category": "chest",
+   "detect": {
+    "chest_id": 6,
+    "map_id": 3020,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_01Gra_42_01_6",
+   "logic": {
+    "progress": 2000,
+    "zone": 2011
+   },
+   "name": "Grandshelt - Grandshelt Castle (Dng_01Gra_42_01) Chest 6",
+   "region": "Grandshelt",
+   "vanilla_item": 77000042
+  },
+  {
+   "ap_id": 80302007,
+   "category": "chest",
+   "detect": {
+    "chest_id": 7,
+    "map_id": 3020,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_01Gra_42_01_7",
+   "logic": {
+    "progress": 2000,
+    "zone": 2011
+   },
+   "name": "Grandshelt - Grandshelt Castle (Dng_01Gra_42_01) Chest 7",
+   "region": "Grandshelt",
+   "vanilla_item": 77110021
+  },
+  {
+   "ap_id": 80302008,
+   "category": "chest",
+   "detect": {
+    "chest_id": 8,
+    "map_id": 3020,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_01Gra_42_01_8",
+   "logic": {
+    "progress": 2000,
+    "zone": 2011
+   },
+   "name": "Grandshelt - Grandshelt Castle (Dng_01Gra_42_01) Chest 8",
+   "region": "Grandshelt",
+   "vanilla_item": 77000351
+  },
+  {
+   "ap_id": 80302009,
+   "category": "chest",
+   "detect": {
+    "chest_id": 9,
+    "map_id": 3020,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_01Gra_42_01_9",
+   "logic": {
+    "progress": 2000,
+    "zone": 2011
+   },
+   "name": "Grandshelt - Grandshelt Castle (Dng_01Gra_42_01) Chest 9",
+   "region": "Grandshelt",
+   "vanilla_item": 77000322
+  },
+  {
+   "ap_id": 80303000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 3030,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_02Lan_40_0",
+   "logic": {
+    "progress": 1220,
+    "zone": 3030
+   },
+   "name": "Lanzelt - Siren's Tower Chest 0",
+   "region": "Lanzelt",
+   "vanilla_item": 77000122
+  },
+  {
+   "ap_id": 80303002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 3030,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_02Lan_40_2",
+   "logic": {
+    "progress": 1220,
+    "zone": 3030
+   },
+   "name": "Lanzelt - Siren's Tower Chest 2",
+   "region": "Lanzelt",
+   "vanilla_item": 77102021
+  },
+  {
+   "ap_id": 80303003,
+   "category": "chest",
+   "detect": {
+    "chest_id": 3,
+    "map_id": 3030,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_02Lan_40_3",
+   "logic": {
+    "progress": 1220,
+    "zone": 3030
+   },
+   "name": "Lanzelt - Siren's Tower Chest 3",
+   "region": "Lanzelt",
+   "vanilla_item": 77120321
+  },
+  {
+   "ap_id": 80303004,
+   "category": "chest",
+   "detect": {
+    "chest_id": 4,
+    "map_id": 3030,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_02Lan_40_4",
+   "logic": {
+    "progress": 1220,
+    "zone": 3030
+   },
+   "name": "Lanzelt - Siren's Tower Chest 4",
+   "region": "Lanzelt",
+   "vanilla_item": 77000031
+  },
+  {
+   "ap_id": 80303005,
+   "category": "chest",
+   "detect": {
+    "chest_id": 5,
+    "map_id": 3030,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_02Lan_40_5",
+   "logic": {
+    "progress": 1220,
+    "zone": 3030
+   },
+   "name": "Lanzelt - Siren's Tower Chest 5",
+   "region": "Lanzelt",
+   "vanilla_item": 77000032
+  },
+  {
+   "ap_id": 80304000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 3040,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_03Kol_40_0",
+   "logic": {
+    "progress": 1180,
+    "zone": 3040
+   },
+   "name": "Kolobos - Kolobos Ruins Chest 0",
+   "region": "Kolobos",
+   "vanilla_item": 77110031
+  },
+  {
+   "ap_id": 80304001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 3040,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_03Kol_40_1",
+   "logic": {
+    "progress": 1180,
+    "zone": 3040
+   },
+   "name": "Kolobos - Kolobos Ruins Chest 1",
+   "region": "Kolobos",
+   "vanilla_item": 77000092
+  },
+  {
+   "ap_id": 80304002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 3040,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_03Kol_40_2",
+   "logic": {
+    "progress": 1180,
+    "zone": 3040
+   },
+   "name": "Kolobos - Kolobos Ruins Chest 2",
+   "region": "Kolobos",
+   "vanilla_item": 77000073
+  },
+  {
+   "ap_id": 80304003,
+   "category": "chest",
+   "detect": {
+    "chest_id": 3,
+    "map_id": 3040,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_03Kol_40_3",
+   "logic": {
+    "progress": 1180,
+    "zone": 3040
+   },
+   "name": "Kolobos - Kolobos Ruins Chest 3",
+   "region": "Kolobos",
+   "vanilla_item": 77000032
+  },
+  {
+   "ap_id": 80305000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 3050,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_04Dir_40_0",
+   "logic": {
+    "progress": 2030,
+    "zone": 3050
+   },
+   "name": "Dirnado - Mt. Thunderclap Chest 0",
+   "region": "Dirnado",
+   "vanilla_item": 78000800
+  },
+  {
+   "ap_id": 80305001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 3050,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_04Dir_40_1",
+   "logic": {
+    "progress": 2030,
+    "zone": 3050
+   },
+   "name": "Dirnado - Mt. Thunderclap Chest 1",
+   "region": "Dirnado",
+   "vanilla_item": 77101181
+  },
+  {
+   "ap_id": 80305002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 3050,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_04Dir_40_2",
+   "logic": {
+    "progress": 2030,
+    "zone": 3050
+   },
+   "name": "Dirnado - Mt. Thunderclap Chest 2",
+   "region": "Dirnado",
+   "vanilla_item": 77120211
+  },
+  {
+   "ap_id": 80305003,
+   "category": "chest",
+   "detect": {
+    "chest_id": 3,
+    "map_id": 3050,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_04Dir_40_3",
+   "logic": {
+    "progress": 2030,
+    "zone": 3050
+   },
+   "name": "Dirnado - Mt. Thunderclap Chest 3",
+   "region": "Dirnado",
+   "vanilla_item": 77115081
+  },
+  {
+   "ap_id": 80306000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 3060,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_04Dir_41_0",
+   "logic": {
+    "progress": 2080,
+    "zone": 3060
+   },
+   "name": "Dirnado - Mobliz Shipyard Chest 0",
+   "region": "Dirnado",
+   "vanilla_item": 77000103
+  },
+  {
+   "ap_id": 80306001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 3060,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_04Dir_41_1",
+   "logic": {
+    "progress": 2080,
+    "zone": 3060
+   },
+   "name": "Dirnado - Mobliz Shipyard Chest 1",
+   "region": "Dirnado",
+   "vanilla_item": 77115211
+  },
+  {
+   "ap_id": 80306002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 3060,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_04Dir_41_2",
+   "logic": {
+    "progress": 2080,
+    "zone": 3060
+   },
+   "name": "Dirnado - Mobliz Shipyard Chest 2",
+   "region": "Dirnado",
+   "vanilla_item": 77002132
+  },
+  {
+   "ap_id": 80306003,
+   "category": "chest",
+   "detect": {
+    "chest_id": 3,
+    "map_id": 3060,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_04Dir_41_3",
+   "logic": {
+    "progress": 2080,
+    "zone": 3060
+   },
+   "name": "Dirnado - Mobliz Shipyard Chest 3",
+   "region": "Dirnado",
+   "vanilla_item": 77120101
+  },
+  {
+   "ap_id": 80307000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 3070,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_04Dir_42_0",
+   "logic": {
+    "progress": 2120,
+    "zone": 3070
+   },
+   "name": "Dirnado - Wind Shrine Chest 0",
+   "region": "Dirnado",
+   "vanilla_item": 77000321
+  },
+  {
+   "ap_id": 80307001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 3070,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_04Dir_42_1",
+   "logic": {
+    "progress": 2120,
+    "zone": 3070
+   },
+   "name": "Dirnado - Wind Shrine Chest 1",
+   "region": "Dirnado",
+   "vanilla_item": 77000321
+  },
+  {
+   "ap_id": 80307002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 3070,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_04Dir_42_2",
+   "logic": {
+    "progress": 2120,
+    "zone": 3070
+   },
+   "name": "Dirnado - Wind Shrine Chest 2",
+   "region": "Dirnado",
+   "vanilla_item": 77102041
+  },
+  {
+   "ap_id": 80307004,
+   "category": "chest",
+   "detect": {
+    "chest_id": 4,
+    "map_id": 3070,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_04Dir_42_4",
+   "logic": {
+    "progress": 2120,
+    "zone": 3070
+   },
+   "name": "Dirnado - Wind Shrine Chest 4",
+   "region": "Dirnado",
+   "vanilla_item": 77113151
+  },
+  {
+   "ap_id": 80308001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 3080,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_05Old_40_1",
+   "logic": {
+    "progress": 3020,
+    "zone": 3080
+   },
+   "name": "Olderion - Cave of Waters Chest 1",
+   "region": "Olderion",
+   "vanilla_item": 77105131
+  },
+  {
+   "ap_id": 80308002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 3080,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_05Old_40_2",
+   "logic": {
+    "progress": 3020,
+    "zone": 3080
+   },
+   "name": "Olderion - Cave of Waters Chest 2",
+   "region": "Olderion",
+   "vanilla_item": 77002063
+  },
+  {
+   "ap_id": 80308003,
+   "category": "chest",
+   "detect": {
+    "chest_id": 3,
+    "map_id": 3080,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_05Old_40_3",
+   "logic": {
+    "progress": 3020,
+    "zone": 3080
+   },
+   "name": "Olderion - Cave of Waters Chest 3",
+   "region": "Olderion",
+   "vanilla_item": 77002102
+  },
+  {
+   "ap_id": 80308004,
+   "category": "chest",
+   "detect": {
+    "chest_id": 4,
+    "map_id": 3080,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_05Old_40_4",
+   "logic": {
+    "progress": 3020,
+    "zone": 3080
+   },
+   "name": "Olderion - Cave of Waters Chest 4",
+   "region": "Olderion",
+   "vanilla_item": 77110231
+  },
+  {
+   "ap_id": 80309000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 3090,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_05Old_41_0",
+   "logic": {
+    "progress": 3050,
+    "zone": 2070
+   },
+   "name": "Olderion - Old Town, Olderion Chest 0",
+   "region": "Olderion",
+   "vanilla_item": 77002133
+  },
+  {
+   "ap_id": 80309001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 3090,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_05Old_41_1",
+   "logic": {
+    "progress": 3050,
+    "zone": 2070
+   },
+   "name": "Olderion - Old Town, Olderion Chest 1",
+   "region": "Olderion",
+   "vanilla_item": 77000031
+  },
+  {
+   "ap_id": 80309002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 3090,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_05Old_41_2",
+   "logic": {
+    "progress": 3050,
+    "zone": 2070
+   },
+   "name": "Olderion - Old Town, Olderion Chest 2",
+   "region": "Olderion",
+   "vanilla_item": 77000321
+  },
+  {
+   "ap_id": 80310000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 3100,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_05Old_43_0",
+   "logic": {
+    "progress": 3130,
+    "zone": 3100
+   },
+   "name": "Olderion - Waterfall Way Chest 0",
+   "region": "Olderion",
+   "vanilla_item": 77113161
+  },
+  {
+   "ap_id": 80310001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 3100,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_05Old_43_1",
+   "logic": {
+    "progress": 3130,
+    "zone": 3100
+   },
+   "name": "Olderion - Waterfall Way Chest 1",
+   "region": "Olderion",
+   "vanilla_item": 77000102
+  },
+  {
+   "ap_id": 80310002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 3100,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_05Old_43_2",
+   "logic": {
+    "progress": 3130,
+    "zone": 3100
+   },
+   "name": "Olderion - Waterfall Way Chest 2",
+   "region": "Olderion",
+   "vanilla_item": 77000371
+  },
+  {
+   "ap_id": 80310003,
+   "category": "chest",
+   "detect": {
+    "chest_id": 3,
+    "map_id": 3100,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_05Old_43_3",
+   "logic": {
+    "progress": 3130,
+    "zone": 3100
+   },
+   "name": "Olderion - Waterfall Way Chest 3",
+   "region": "Olderion",
+   "vanilla_item": 77101231
+  },
+  {
+   "ap_id": 80310004,
+   "category": "chest",
+   "detect": {
+    "chest_id": 4,
+    "map_id": 3100,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_05Old_43_4",
+   "logic": {
+    "progress": 3130,
+    "zone": 3100
+   },
+   "name": "Olderion - Waterfall Way Chest 4",
+   "region": "Olderion",
+   "vanilla_item": 77120391
+  },
+  {
+   "ap_id": 80311000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 3110,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_05Old_44_0",
+   "logic": {
+    "progress": 3170,
+    "zone": 3110
+   },
+   "name": "Olderion - Water Shrine Chest 0",
+   "region": "Olderion",
+   "vanilla_item": 77113201
+  },
+  {
+   "ap_id": 80311002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 3110,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_05Old_44_2",
+   "logic": {
+    "progress": 3170,
+    "zone": 3110
+   },
+   "name": "Olderion - Water Shrine Chest 2",
+   "region": "Olderion",
+   "vanilla_item": 77105081
+  },
+  {
+   "ap_id": 80311003,
+   "category": "chest",
+   "detect": {
+    "chest_id": 3,
+    "map_id": 3110,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_05Old_44_3",
+   "logic": {
+    "progress": 3170,
+    "zone": 3110
+   },
+   "name": "Olderion - Water Shrine Chest 3",
+   "region": "Olderion",
+   "vanilla_item": 77002133
+  },
+  {
+   "ap_id": 80311004,
+   "category": "chest",
+   "detect": {
+    "chest_id": 4,
+    "map_id": 3110,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_05Old_44_4",
+   "logic": {
+    "progress": 3170,
+    "zone": 3110
+   },
+   "name": "Olderion - Water Shrine Chest 4",
+   "region": "Olderion",
+   "vanilla_item": 77104151
+  },
+  {
+   "ap_id": 80311005,
+   "category": "chest",
+   "detect": {
+    "chest_id": 5,
+    "map_id": 3110,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_05Old_44_5",
+   "logic": {
+    "progress": 3170,
+    "zone": 3110
+   },
+   "name": "Olderion - Water Shrine Chest 5",
+   "region": "Olderion",
+   "vanilla_item": 77120491
+  },
+  {
+   "ap_id": 80313000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 3130,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_06Zol_41_0",
+   "logic": {
+    "progress": 4130,
+    "zone": 3131
+   },
+   "name": "Zoldaad - Weapons Factory Chest 0",
+   "region": "Zoldaad",
+   "vanilla_item": 77110241
+  },
+  {
+   "ap_id": 80313002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 3130,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_06Zol_41_2",
+   "logic": {
+    "progress": 4130,
+    "zone": 3131
+   },
+   "name": "Zoldaad - Weapons Factory Chest 2",
+   "region": "Zoldaad",
+   "vanilla_item": 77000263
+  },
+  {
+   "ap_id": 80313003,
+   "category": "chest",
+   "detect": {
+    "chest_id": 3,
+    "map_id": 3130,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_06Zol_41_3",
+   "logic": {
+    "progress": 4130,
+    "zone": 3131
+   },
+   "name": "Zoldaad - Weapons Factory Chest 3",
+   "region": "Zoldaad",
+   "vanilla_item": 77000313
+  },
+  {
+   "ap_id": 80313004,
+   "category": "chest",
+   "detect": {
+    "chest_id": 4,
+    "map_id": 3130,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_06Zol_41_4",
+   "logic": {
+    "progress": 4130,
+    "zone": 3131
+   },
+   "name": "Zoldaad - Weapons Factory Chest 4",
+   "region": "Zoldaad",
+   "vanilla_item": 77002133
+  },
+  {
+   "ap_id": 80314000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 3140,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_06Zol_42_0",
+   "logic": {
+    "progress": 4060,
+    "zone": 2110
+   },
+   "name": "Zoldaad - Underground Tunnel Chest 0",
+   "region": "Zoldaad",
+   "vanilla_item": 77000351
+  },
+  {
+   "ap_id": 80314001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 3140,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_06Zol_42_1",
+   "logic": {
+    "progress": 4060,
+    "zone": 2110
+   },
+   "name": "Zoldaad - Underground Tunnel Chest 1",
+   "region": "Zoldaad",
+   "vanilla_item": 77120051
+  },
+  {
+   "ap_id": 80314003,
+   "category": "chest",
+   "detect": {
+    "chest_id": 3,
+    "map_id": 3140,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_06Zol_42_3",
+   "logic": {
+    "progress": 4060,
+    "zone": 2110
+   },
+   "name": "Zoldaad - Underground Tunnel Chest 3",
+   "region": "Zoldaad",
+   "vanilla_item": 77000322
+  },
+  {
+   "ap_id": 80314004,
+   "category": "chest",
+   "detect": {
+    "chest_id": 4,
+    "map_id": 3140,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_06Zol_42_4",
+   "logic": {
+    "progress": 4060,
+    "zone": 2110
+   },
+   "name": "Zoldaad - Underground Tunnel Chest 4",
+   "region": "Zoldaad",
+   "vanilla_item": 77000032
+  },
+  {
+   "ap_id": 80315000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 3150,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_06Zol_43_0",
+   "logic": {
+    "progress": 4170,
+    "zone": 2110
+   },
+   "name": "Zoldaad - Dungeon Chest 0",
+   "region": "Zoldaad",
+   "vanilla_item": 77000201
+  },
+  {
+   "ap_id": 80315001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 3150,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_06Zol_43_1",
+   "logic": {
+    "progress": 4170,
+    "zone": 2110
+   },
+   "name": "Zoldaad - Dungeon Chest 1",
+   "region": "Zoldaad",
+   "vanilla_item": 77000372
+  },
+  {
+   "ap_id": 80315002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 3150,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_06Zol_43_2",
+   "logic": {
+    "progress": 4170,
+    "zone": 2110
+   },
+   "name": "Zoldaad - Dungeon Chest 2",
+   "region": "Zoldaad",
+   "vanilla_item": 77000371
+  },
+  {
+   "ap_id": 80315003,
+   "category": "chest",
+   "detect": {
+    "chest_id": 3,
+    "map_id": 3150,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_06Zol_43_3",
+   "logic": {
+    "progress": 4170,
+    "zone": 2110
+   },
+   "name": "Zoldaad - Dungeon Chest 3",
+   "region": "Zoldaad",
+   "vanilla_item": 77107161
+  },
+  {
+   "ap_id": 80316000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 3160,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_06Zol_44_0",
+   "logic": {
+    "progress": 4190,
+    "zone": 2110
+   },
+   "name": "Zoldaad - Zoldaad Castle Chest 0",
+   "region": "Zoldaad",
+   "vanilla_item": 77000351
+  },
+  {
+   "ap_id": 80316001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 3160,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_06Zol_44_1",
+   "logic": {
+    "progress": 4190,
+    "zone": 2110
+   },
+   "name": "Zoldaad - Zoldaad Castle Chest 1",
+   "region": "Zoldaad",
+   "vanilla_item": 77102241
+  },
+  {
+   "ap_id": 80316002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 3160,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_06Zol_44_2",
+   "logic": {
+    "progress": 4190,
+    "zone": 2110
+   },
+   "name": "Zoldaad - Zoldaad Castle Chest 2",
+   "region": "Zoldaad",
+   "vanilla_item": 77101081
+  },
+  {
+   "ap_id": 80316003,
+   "category": "chest",
+   "detect": {
+    "chest_id": 3,
+    "map_id": 3160,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_06Zol_44_3",
+   "logic": {
+    "progress": 4190,
+    "zone": 2110
+   },
+   "name": "Zoldaad - Zoldaad Castle Chest 3",
+   "region": "Zoldaad",
+   "vanilla_item": 77000141
+  },
+  {
+   "ap_id": 80318000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 3180,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_07Mys_41_0",
+   "logic": {
+    "progress": 6000,
+    "zone": 3180
+   },
+   "name": "Magi Nation Mysidia - Nameless Ruins Chest 0",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": 77107121
+  },
+  {
+   "ap_id": 80318002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 3180,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_07Mys_41_2",
+   "logic": {
+    "progress": 6000,
+    "zone": 3180
+   },
+   "name": "Magi Nation Mysidia - Nameless Ruins Chest 2",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": 77000193
+  },
+  {
+   "ap_id": 80318003,
+   "category": "chest",
+   "detect": {
+    "chest_id": 3,
+    "map_id": 3180,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_07Mys_41_3",
+   "logic": {
+    "progress": 6000,
+    "zone": 3180
+   },
+   "name": "Magi Nation Mysidia - Nameless Ruins Chest 3",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": 77108151
+  },
+  {
+   "ap_id": 80318004,
+   "category": "chest",
+   "detect": {
+    "chest_id": 4,
+    "map_id": 3180,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_07Mys_41_4",
+   "logic": {
+    "progress": 6000,
+    "zone": 3180
+   },
+   "name": "Magi Nation Mysidia - Nameless Ruins Chest 4",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": 77113221
+  },
+  {
+   "ap_id": 80319000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 3190,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_07Mys_42_0",
+   "logic": {
+    "progress": 5080,
+    "zone": 2130
+   },
+   "name": "Magi Nation Mysidia - Arcane Library Chest 0",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": 77000262
+  },
+  {
+   "ap_id": 80319001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 3190,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_07Mys_42_1",
+   "logic": {
+    "progress": 5080,
+    "zone": 2130
+   },
+   "name": "Magi Nation Mysidia - Arcane Library Chest 1",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": 77105151
+  },
+  {
+   "ap_id": 80319002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 3190,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_07Mys_42_2",
+   "logic": {
+    "progress": 5080,
+    "zone": 2130
+   },
+   "name": "Magi Nation Mysidia - Arcane Library Chest 2",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": 77000313
+  },
+  {
+   "ap_id": 80319003,
+   "category": "chest",
+   "detect": {
+    "chest_id": 3,
+    "map_id": 3190,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_07Mys_42_3",
+   "logic": {
+    "progress": 5080,
+    "zone": 2130
+   },
+   "name": "Magi Nation Mysidia - Arcane Library Chest 3",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": 77000343
+  },
+  {
+   "ap_id": 80319004,
+   "category": "chest",
+   "detect": {
+    "chest_id": 4,
+    "map_id": 3190,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_07Mys_42_4",
+   "logic": {
+    "progress": 5080,
+    "zone": 2130
+   },
+   "name": "Magi Nation Mysidia - Arcane Library Chest 4",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": 77102201
+  },
+  {
+   "ap_id": 80320000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 3200,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_07Mys_43_0",
+   "logic": {
+    "progress": 5180,
+    "zone": 3200
+   },
+   "name": "Magi Nation Mysidia - Tower of Mysidia Chest 0",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": 77000113
+  },
+  {
+   "ap_id": 80320002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 3200,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_07Mys_43_2",
+   "logic": {
+    "progress": 5180,
+    "zone": 3200
+   },
+   "name": "Magi Nation Mysidia - Tower of Mysidia Chest 2",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": 77115241
+  },
+  {
+   "ap_id": 80320003,
+   "category": "chest",
+   "detect": {
+    "chest_id": 3,
+    "map_id": 3200,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_07Mys_43_3",
+   "logic": {
+    "progress": 5180,
+    "zone": 3200
+   },
+   "name": "Magi Nation Mysidia - Tower of Mysidia Chest 3",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": 77104161
+  },
+  {
+   "ap_id": 80321100,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 3211,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_07Mys_45_0",
+   "logic": {
+    "progress": 5000,
+    "zone": null
+   },
+   "name": "Magi Nation Mysidia - Fina's Psyche (Dng_07Mys_45) Chest 0",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": 77000322
+  },
+  {
+   "ap_id": 80321101,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 3211,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_07Mys_45_1",
+   "logic": {
+    "progress": 5000,
+    "zone": null
+   },
+   "name": "Magi Nation Mysidia - Fina's Psyche (Dng_07Mys_45) Chest 1",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": 77107171
+  },
+  {
+   "ap_id": 80321200,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 3212,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_07Mys_46_0",
+   "logic": {
+    "progress": 5000,
+    "zone": null
+   },
+   "name": "Magi Nation Mysidia - Fina's Psyche (Dng_07Mys_46) Chest 0",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": 77106031
+  },
+  {
+   "ap_id": 80322000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 3220,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_08Gro_40_0",
+   "logic": {
+    "progress": 6020,
+    "zone": 3220
+   },
+   "name": "Gronoa - Research Center Ruins Chest 0",
+   "region": "Gronoa",
+   "vanilla_item": 77002041
+  },
+  {
+   "ap_id": 80322001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 3220,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_08Gro_40_1",
+   "logic": {
+    "progress": 6020,
+    "zone": 3220
+   },
+   "name": "Gronoa - Research Center Ruins Chest 1",
+   "region": "Gronoa",
+   "vanilla_item": 77000352
+  },
+  {
+   "ap_id": 80322002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 3220,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_08Gro_40_2",
+   "logic": {
+    "progress": 6020,
+    "zone": 3220
+   },
+   "name": "Gronoa - Research Center Ruins Chest 2",
+   "region": "Gronoa",
+   "vanilla_item": 77113191
+  },
+  {
+   "ap_id": 80322003,
+   "category": "chest",
+   "detect": {
+    "chest_id": 3,
+    "map_id": 3220,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_08Gro_40_3",
+   "logic": {
+    "progress": 6020,
+    "zone": 3220
+   },
+   "name": "Gronoa - Research Center Ruins Chest 3",
+   "region": "Gronoa",
+   "vanilla_item": 77107131
+  },
+  {
+   "ap_id": 80322005,
+   "category": "chest",
+   "detect": {
+    "chest_id": 5,
+    "map_id": 3220,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_08Gro_40_5",
+   "logic": {
+    "progress": 6020,
+    "zone": 3220
+   },
+   "name": "Gronoa - Research Center Ruins Chest 5",
+   "region": "Gronoa",
+   "vanilla_item": 77000133
+  },
+  {
+   "ap_id": 80323000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 3230,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_08Gro_41_0",
+   "logic": {
+    "progress": 6070,
+    "zone": 3230
+   },
+   "name": "Gronoa - Rugged Mountain Path Chest 0",
+   "region": "Gronoa",
+   "vanilla_item": 77002001
+  },
+  {
+   "ap_id": 80323001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 3230,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_08Gro_41_1",
+   "logic": {
+    "progress": 6070,
+    "zone": 3230
+   },
+   "name": "Gronoa - Rugged Mountain Path Chest 1",
+   "region": "Gronoa",
+   "vanilla_item": 77102251
+  },
+  {
+   "ap_id": 80324000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 3240,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_08Gro_42_0",
+   "logic": {
+    "progress": 6100,
+    "zone": 3240
+   },
+   "name": "Gronoa - Gronoa Shrine Chest 0",
+   "region": "Gronoa",
+   "vanilla_item": 77000361
+  },
+  {
+   "ap_id": 80324002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 3240,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_08Gro_42_2",
+   "logic": {
+    "progress": 6100,
+    "zone": 3240
+   },
+   "name": "Gronoa - Gronoa Shrine Chest 2",
+   "region": "Gronoa",
+   "vanilla_item": 77108161
+  },
+  {
+   "ap_id": 80324003,
+   "category": "chest",
+   "detect": {
+    "chest_id": 3,
+    "map_id": 3240,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_08Gro_42_3",
+   "logic": {
+    "progress": 6100,
+    "zone": 3240
+   },
+   "name": "Gronoa - Gronoa Shrine Chest 3",
+   "region": "Gronoa",
+   "vanilla_item": 77120141
+  },
+  {
+   "ap_id": 80325000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 3250,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_08Gro_43_0",
+   "logic": {
+    "progress": 6120,
+    "zone": 3250
+   },
+   "name": "Gronoa - Sanctissimus Shrine Chest 0",
+   "region": "Gronoa",
+   "vanilla_item": 77106131
+  },
+  {
+   "ap_id": 80325001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 3250,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_08Gro_43_1",
+   "logic": {
+    "progress": 6120,
+    "zone": 3250
+   },
+   "name": "Gronoa - Sanctissimus Shrine Chest 1",
+   "region": "Gronoa",
+   "vanilla_item": 77101261
+  },
+  {
+   "ap_id": 80326000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 3260,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_09Pha_40_0",
+   "logic": {
+    "progress": 7020,
+    "zone": 3260
+   },
+   "name": "Pharm - Mt. Reizan Chest 0",
+   "region": "Pharm",
+   "vanilla_item": 77000182
+  },
+  {
+   "ap_id": 80326002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 3260,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_09Pha_40_2",
+   "logic": {
+    "progress": 7020,
+    "zone": 3260
+   },
+   "name": "Pharm - Mt. Reizan Chest 2",
+   "region": "Pharm",
+   "vanilla_item": 77104191
+  },
+  {
+   "ap_id": 80327100,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 3271,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_09Pha_42_0",
+   "logic": {
+    "all": true
+   },
+   "name": "Pharm - Forest Path Chest 0",
+   "region": "Pharm",
+   "vanilla_item": 77000231
+  },
+  {
+   "ap_id": 80327101,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 3271,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_09Pha_42_1",
+   "logic": {
+    "all": true
+   },
+   "name": "Pharm - Forest Path Chest 1",
+   "region": "Pharm",
+   "vanilla_item": 77002082
+  },
+  {
+   "ap_id": 80327200,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 3272,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_09Pha_43_0",
+   "logic": {
+    "progress": 7000,
+    "zone": null
+   },
+   "name": "Pharm - Wandering Lands Chest 0",
+   "region": "Pharm",
+   "vanilla_item": 77000221
+  },
+  {
+   "ap_id": 80327201,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 3272,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_09Pha_43_1",
+   "logic": {
+    "progress": 7000,
+    "zone": null
+   },
+   "name": "Pharm - Wandering Lands Chest 1",
+   "region": "Pharm",
+   "vanilla_item": 77120461
+  },
+  {
+   "ap_id": 80328000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 3280,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_10Cry_40_0",
+   "logic": {
+    "progress": 7090,
+    "zone": 3280
+   },
+   "name": "Land of the Crystals - Crystal Tower Chest 0",
+   "region": "Land of the Crystals",
+   "vanilla_item": 77101941
+  },
+  {
+   "ap_id": 80328001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 3280,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_10Cry_40_1",
+   "logic": {
+    "progress": 7090,
+    "zone": 3280
+   },
+   "name": "Land of the Crystals - Crystal Tower Chest 1",
+   "region": "Land of the Crystals",
+   "vanilla_item": 77102981
+  },
+  {
+   "ap_id": 80328002,
+   "category": "chest",
+   "detect": {
+    "chest_id": 2,
+    "map_id": 3280,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_10Cry_40_2",
+   "logic": {
+    "progress": 7090,
+    "zone": 3280
+   },
+   "name": "Land of the Crystals - Crystal Tower Chest 2",
+   "region": "Land of the Crystals",
+   "vanilla_item": 77103961
+  },
+  {
+   "ap_id": 80328003,
+   "category": "chest",
+   "detect": {
+    "chest_id": 3,
+    "map_id": 3280,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_10Cry_40_3",
+   "logic": {
+    "progress": 7090,
+    "zone": 3280
+   },
+   "name": "Land of the Crystals - Crystal Tower Chest 3",
+   "region": "Land of the Crystals",
+   "vanilla_item": 77000231
+  },
+  {
+   "ap_id": 80328004,
+   "category": "chest",
+   "detect": {
+    "chest_id": 4,
+    "map_id": 3280,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_10Cry_40_4",
+   "logic": {
+    "progress": 7090,
+    "zone": 3280
+   },
+   "name": "Land of the Crystals - Crystal Tower Chest 4",
+   "region": "Land of the Crystals",
+   "vanilla_item": 77104951
+  },
+  {
+   "ap_id": 80328006,
+   "category": "chest",
+   "detect": {
+    "chest_id": 6,
+    "map_id": 3280,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_10Cry_40_6",
+   "logic": {
+    "progress": 7090,
+    "zone": 3280
+   },
+   "name": "Land of the Crystals - Crystal Tower Chest 6",
+   "region": "Land of the Crystals",
+   "vanilla_item": 77105101
+  },
+  {
+   "ap_id": 80328007,
+   "category": "chest",
+   "detect": {
+    "chest_id": 7,
+    "map_id": 3280,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_10Cry_40_7",
+   "logic": {
+    "progress": 7090,
+    "zone": 3280
+   },
+   "name": "Land of the Crystals - Crystal Tower Chest 7",
+   "region": "Land of the Crystals",
+   "vanilla_item": 77106091
+  },
+  {
+   "ap_id": 80328008,
+   "category": "chest",
+   "detect": {
+    "chest_id": 8,
+    "map_id": 3280,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_10Cry_40_8",
+   "logic": {
+    "progress": 7090,
+    "zone": 3280
+   },
+   "name": "Land of the Crystals - Crystal Tower Chest 8",
+   "region": "Land of the Crystals",
+   "vanilla_item": 77107041
+  },
+  {
+   "ap_id": 80328009,
+   "category": "chest",
+   "detect": {
+    "chest_id": 9,
+    "map_id": 3280,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_10Cry_40_9",
+   "logic": {
+    "progress": 7090,
+    "zone": 3280
+   },
+   "name": "Land of the Crystals - Crystal Tower Chest 9",
+   "region": "Land of the Crystals",
+   "vanilla_item": 77108081
+  },
+  {
+   "ap_id": 80328010,
+   "category": "chest",
+   "detect": {
+    "chest_id": 10,
+    "map_id": 3280,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_10Cry_40_10",
+   "logic": {
+    "progress": 7090,
+    "zone": 3280
+   },
+   "name": "Land of the Crystals - Crystal Tower Chest 10",
+   "region": "Land of the Crystals",
+   "vanilla_item": 77002082
+  },
+  {
+   "ap_id": 81000100,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 10001,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_01Gra_44_0",
+   "logic": {
+    "progress": 5000,
+    "zone": 10001
+   },
+   "name": "Grandshelt - Lost Cave Chest 0",
+   "region": "Grandshelt",
+   "vanilla_item": 77002073
+  },
+  {
+   "ap_id": 81000101,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 10001,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_01Gra_44_1",
+   "logic": {
+    "progress": 5000,
+    "zone": 10001
+   },
+   "name": "Grandshelt - Lost Cave Chest 1",
+   "region": "Grandshelt",
+   "vanilla_item": 77000081
+  },
+  {
+   "ap_id": 81003100,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 10031,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_06Zol_48_0",
+   "logic": {
+    "progress": 5000,
+    "zone": 10031
+   },
+   "name": "Zoldaad - Quarry Cave Chest 0",
+   "region": "Zoldaad",
+   "vanilla_item": 77120981
+  },
+  {
+   "ap_id": 81005000,
+   "category": "chest",
+   "detect": {
+    "chest_id": 0,
+    "map_id": 10050,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_02Lan_41_0",
+   "logic": {
+    "all": true
+   },
+   "name": "Lanzelt - Dng_02Lan_41 Chest 0",
+   "region": "Lanzelt",
+   "vanilla_item": 77120361
+  },
+  {
+   "ap_id": 81005001,
+   "category": "chest",
+   "detect": {
+    "chest_id": 1,
+    "map_id": 10050,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_02Lan_41_1",
+   "logic": {
+    "all": true
+   },
+   "name": "Lanzelt - Dng_02Lan_41 Chest 1",
+   "region": "Lanzelt",
+   "vanilla_item": 78000300
+  },
+  {
+   "ap_id": 81005003,
+   "category": "chest",
+   "detect": {
+    "chest_id": 3,
+    "map_id": 10050,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_02Lan_41_3",
+   "logic": {
+    "all": true
+   },
+   "name": "Lanzelt - Dng_02Lan_41 Chest 3",
+   "note": "vanilla item 5 not found in item tables; replaced by filler",
+   "region": "Lanzelt",
+   "vanilla_item": 77000011
+  },
+  {
+   "ap_id": 81005004,
+   "category": "chest",
+   "detect": {
+    "chest_id": 4,
+    "map_id": 10050,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_02Lan_41_4",
+   "logic": {
+    "all": true
+   },
+   "name": "Lanzelt - Dng_02Lan_41 Chest 4",
+   "note": "vanilla item 6 not found in item tables; replaced by filler",
+   "region": "Lanzelt",
+   "vanilla_item": 77000011
+  },
+  {
+   "ap_id": 81005005,
+   "category": "chest",
+   "detect": {
+    "chest_id": 5,
+    "map_id": 10050,
+    "method": "treasure_box"
+   },
+   "game_row": "Dng_02Lan_41_5",
+   "logic": {
+    "all": true
+   },
+   "name": "Lanzelt - Dng_02Lan_41 Chest 5",
+   "region": "Lanzelt",
+   "vanilla_item": 77005002
+  },
+  {
+   "ap_id": 82013017,
+   "category": "vision",
+   "detect": {
+    "method": "vision",
+    "vision_id": 13017
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Vision: Amelia",
+   "region": "Visions",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82013024,
+   "category": "vision",
+   "detect": {
+    "method": "vision",
+    "vision_id": 13024
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Vision: Tronn",
+   "region": "Visions",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82013027,
+   "category": "vision",
+   "detect": {
+    "method": "vision",
+    "vision_id": 13027
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Vision: Victoria",
+   "region": "Visions",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82013033,
+   "category": "vision",
+   "detect": {
+    "method": "vision",
+    "vision_id": 13033
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Vision: Camille",
+   "region": "Visions",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82013045,
+   "category": "vision",
+   "detect": {
+    "method": "vision",
+    "vision_id": 13045
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Vision: Leah",
+   "region": "Visions",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82013051,
+   "category": "vision",
+   "detect": {
+    "method": "vision",
+    "vision_id": 13051
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Vision: Ayaka",
+   "region": "Visions",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82013060,
+   "category": "vision",
+   "detect": {
+    "method": "vision",
+    "vision_id": 13060
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Vision: Charlotte",
+   "region": "Visions",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82013062,
+   "category": "vision",
+   "detect": {
+    "method": "vision",
+    "vision_id": 13062
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Vision: Wilhelm",
+   "region": "Visions",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82013080,
+   "category": "vision",
+   "detect": {
+    "method": "vision",
+    "vision_id": 13080
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Vision: Aileen",
+   "region": "Visions",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82013100,
+   "category": "vision",
+   "detect": {
+    "method": "vision",
+    "vision_id": 13100
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Vision: Warrior of Light",
+   "region": "Visions",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82013101,
+   "category": "vision",
+   "detect": {
+    "method": "vision",
+    "vision_id": 13101
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Vision: Firion",
+   "region": "Visions",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82013102,
+   "category": "vision",
+   "detect": {
+    "method": "vision",
+    "vision_id": 13102
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Vision: Onion Knight",
+   "region": "Visions",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82013103,
+   "category": "vision",
+   "detect": {
+    "method": "vision",
+    "vision_id": 13103
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Vision: Cecil",
+   "region": "Visions",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82013105,
+   "category": "vision",
+   "detect": {
+    "method": "vision",
+    "vision_id": 13105
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Vision: Bartz",
+   "region": "Visions",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82013108,
+   "category": "vision",
+   "detect": {
+    "method": "vision",
+    "vision_id": 13108
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Vision: Terra",
+   "region": "Visions",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82013110,
+   "category": "vision",
+   "detect": {
+    "method": "vision",
+    "vision_id": 13110
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Vision: Cloud",
+   "region": "Visions",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82013113,
+   "category": "vision",
+   "detect": {
+    "method": "vision",
+    "vision_id": 13113
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Vision: Sephiroth",
+   "region": "Visions",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82013116,
+   "category": "vision",
+   "detect": {
+    "method": "vision",
+    "vision_id": 13116
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Vision: Squall",
+   "region": "Visions",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82013118,
+   "category": "vision",
+   "detect": {
+    "method": "vision",
+    "vision_id": 13118
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Vision: Zidane",
+   "region": "Visions",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82013120,
+   "category": "vision",
+   "detect": {
+    "method": "vision",
+    "vision_id": 13120
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Vision: Tidus",
+   "region": "Visions",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82013123,
+   "category": "vision",
+   "detect": {
+    "method": "vision",
+    "vision_id": 13123
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Vision: Shantotto",
+   "region": "Visions",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82013124,
+   "category": "vision",
+   "detect": {
+    "method": "vision",
+    "vision_id": 13124
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Vision: Vaan",
+   "region": "Visions",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82013125,
+   "category": "vision",
+   "detect": {
+    "method": "vision",
+    "vision_id": 13125
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Vision: Lightning",
+   "region": "Visions",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82013127,
+   "category": "vision",
+   "detect": {
+    "method": "vision",
+    "vision_id": 13127
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Vision: Y'shtola",
+   "region": "Visions",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82013128,
+   "category": "vision",
+   "detect": {
+    "method": "vision",
+    "vision_id": 13128
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Vision: Noctis",
+   "region": "Visions",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82013130,
+   "category": "vision",
+   "detect": {
+    "method": "vision",
+    "vision_id": 13130
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Vision: Clive",
+   "region": "Visions",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100000,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 0
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: A New Leaf",
+   "region": "Grandshelt",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100001,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 1
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: The Twin Titleholders",
+   "region": "Gronoa",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100002,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 2
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: Shimmering Reflections",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100003,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 3
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: Beyond the Blue",
+   "region": "Dirnado",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100004,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 4
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: Nichol's Duty",
+   "region": "Olderion",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100005,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 5
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: Last Respite",
+   "region": "Grandshelt",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100006,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 6
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: Token Legacy",
+   "region": "Zoldaad",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100007,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 7
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: Mysidia, Ever Blooming",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100013,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 13
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: Rear Support, Ahoy!",
+   "region": "Lanzelt",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100014,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 14
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: Dream of an Idealist",
+   "region": "Grandshelt",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100016,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 16
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: Secrets Unearthed",
+   "region": "Kolobos",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100017,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 17
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: Arise, Mechabo!",
+   "region": "Dirnado",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100018,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 18
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: Lyrical Riddles",
+   "region": "Dirnado",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100019,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 19
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: Elven Maven",
+   "region": "Dirnado",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100020,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 20
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: The Weight of Mercy",
+   "region": "Lanzelt",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100021,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 21
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: The Tide from the Sky",
+   "region": "Olderion",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100022,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 22
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: Errand's End",
+   "region": "Zoldaad",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100023,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 23
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: Forger of Wills",
+   "region": "Dirnado",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100024,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 24
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: Victoria Revivified",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100025,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 25
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: The Call from Beyond",
+   "region": "Grandshelt",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100026,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 26
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: Mechabo Evolved",
+   "region": "Dirnado",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100027,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 27
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: Mechabo Unleashed",
+   "region": "Dirnado",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100028,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 28
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: The Shield of the Weak",
+   "region": "Grandshelt",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100029,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 29
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: Medicinal Mission",
+   "region": "Olderion",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100030,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 30
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: Rogue Rebel",
+   "region": "Zoldaad",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100031,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 31
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: O General! My General!",
+   "region": "Zoldaad",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100032,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 32
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: The Admirable Apprentice",
+   "region": "Pharm",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100033,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 33
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: \"Reunion\"",
+   "region": "Gronoa",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100034,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 34
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: Mog Tag",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100035,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 35
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: More Mog Tag",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100036,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 36
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: Even More Mog Tag",
+   "region": "Magi Nation Mysidia",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100037,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 37
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: Battle at the Big Bridge",
+   "region": "Zoldaad",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82100038,
+   "category": "request",
+   "detect": {
+    "method": "request",
+    "request_id": 38
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Request: Iron Splitter",
+   "region": "Gronoa",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82200001,
+   "category": "chapter",
+   "detect": {
+    "chapter": 1,
+    "method": "chapter",
+    "min_progress": 2000
+   },
+   "logic": {
+    "progress": 2000,
+    "zone": null
+   },
+   "name": "Chapter 1 Cleared: Tailing the Truth",
+   "region": "Story",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82200002,
+   "category": "chapter",
+   "detect": {
+    "chapter": 2,
+    "method": "chapter",
+    "min_progress": 3000
+   },
+   "logic": {
+    "progress": 3000,
+    "zone": null
+   },
+   "name": "Chapter 2 Cleared: Eternal Blue",
+   "region": "Story",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82200003,
+   "category": "chapter",
+   "detect": {
+    "chapter": 3,
+    "method": "chapter",
+    "min_progress": 4000
+   },
+   "logic": {
+    "progress": 4000,
+    "zone": null
+   },
+   "name": "Chapter 3 Cleared: Wardens of the Aquapolis",
+   "region": "Story",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82200004,
+   "category": "chapter",
+   "detect": {
+    "chapter": 4,
+    "method": "chapter",
+    "min_progress": 5000
+   },
+   "logic": {
+    "progress": 5000,
+    "zone": null
+   },
+   "name": "Chapter 4 Cleared: Banner Oath",
+   "region": "Story",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82200005,
+   "category": "chapter",
+   "detect": {
+    "chapter": 5,
+    "method": "chapter",
+    "min_progress": 6000
+   },
+   "logic": {
+    "progress": 6000,
+    "zone": null
+   },
+   "name": "Chapter 5 Cleared: Scars of Time",
+   "region": "Story",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82200006,
+   "category": "chapter",
+   "detect": {
+    "chapter": 6,
+    "method": "chapter",
+    "min_progress": 7000
+   },
+   "logic": {
+    "progress": 7000,
+    "zone": null
+   },
+   "name": "Chapter 6 Cleared: Tranquility",
+   "region": "Story",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82200007,
+   "category": "chapter",
+   "detect": {
+    "chapter": 7,
+    "method": "chapter",
+    "min_progress": 8000
+   },
+   "logic": {
+    "progress": 8000,
+    "zone": null
+   },
+   "name": "Chapter 7 Cleared: Reckoning",
+   "region": "Story",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82200008,
+   "category": "chapter",
+   "detect": {
+    "chapter": 8,
+    "method": "chapter",
+    "min_progress": 9000
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "Chapter 8 Cleared: Beyond Hope",
+   "region": "Story",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82300000,
+   "category": "colosseum",
+   "detect": {
+    "method": "colosseum",
+    "row": "初級_初級バトル１"
+   },
+   "logic": {
+    "progress": 4000,
+    "zone": 2011
+   },
+   "name": "Colosseum: Fledgling Battle 1",
+   "region": "Colosseum",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82300001,
+   "category": "colosseum",
+   "detect": {
+    "method": "colosseum",
+    "row": "初級_初級バトル２"
+   },
+   "logic": {
+    "progress": 4000,
+    "zone": 2011
+   },
+   "name": "Colosseum: Fledgling Battle 2",
+   "region": "Colosseum",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82300002,
+   "category": "colosseum",
+   "detect": {
+    "method": "colosseum",
+    "row": "初級_初級バトル3"
+   },
+   "logic": {
+    "progress": 4000,
+    "zone": 2011
+   },
+   "name": "Colosseum: Fledgling Battle 3",
+   "region": "Colosseum",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82300003,
+   "category": "colosseum",
+   "detect": {
+    "method": "colosseum",
+    "row": "初級_初級バトル4"
+   },
+   "logic": {
+    "progress": 4000,
+    "zone": 2011
+   },
+   "name": "Colosseum: Fledgling Battle 4",
+   "region": "Colosseum",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82300004,
+   "category": "colosseum",
+   "detect": {
+    "method": "colosseum",
+    "row": "初級_初級バトル５"
+   },
+   "logic": {
+    "progress": 4000,
+    "zone": 2011
+   },
+   "name": "Colosseum: Fledgling Battle 5",
+   "region": "Colosseum",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82300005,
+   "category": "colosseum",
+   "detect": {
+    "method": "colosseum",
+    "row": "中級_中級バトル1"
+   },
+   "logic": {
+    "progress": 4000,
+    "zone": 2011
+   },
+   "name": "Colosseum: Brawler Battle 1",
+   "region": "Colosseum",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82300006,
+   "category": "colosseum",
+   "detect": {
+    "method": "colosseum",
+    "row": "中級_中級バトル2"
+   },
+   "logic": {
+    "progress": 4000,
+    "zone": 2011
+   },
+   "name": "Colosseum: Brawler Battle 2",
+   "region": "Colosseum",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82300007,
+   "category": "colosseum",
+   "detect": {
+    "method": "colosseum",
+    "row": "中級_中級バトル3"
+   },
+   "logic": {
+    "progress": 4000,
+    "zone": 2011
+   },
+   "name": "Colosseum: Brawler Battle 3",
+   "region": "Colosseum",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82300008,
+   "category": "colosseum",
+   "detect": {
+    "method": "colosseum",
+    "row": "中級_中級バトル4"
+   },
+   "logic": {
+    "progress": 4000,
+    "zone": 2011
+   },
+   "name": "Colosseum: Brawler Battle 4",
+   "region": "Colosseum",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82300009,
+   "category": "colosseum",
+   "detect": {
+    "method": "colosseum",
+    "row": "中級_中級バトル５"
+   },
+   "logic": {
+    "progress": 4000,
+    "zone": 2011
+   },
+   "name": "Colosseum: Brawler Battle 5",
+   "region": "Colosseum",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82300010,
+   "category": "colosseum",
+   "detect": {
+    "method": "colosseum",
+    "row": "上級_上級バトル１"
+   },
+   "logic": {
+    "progress": 4000,
+    "zone": 2011
+   },
+   "name": "Colosseum: Gladiator Battle 1",
+   "region": "Colosseum",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82300011,
+   "category": "colosseum",
+   "detect": {
+    "method": "colosseum",
+    "row": "上級_上級バトル２"
+   },
+   "logic": {
+    "progress": 4000,
+    "zone": 2011
+   },
+   "name": "Colosseum: Gladiator Battle 2",
+   "region": "Colosseum",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82300012,
+   "category": "colosseum",
+   "detect": {
+    "method": "colosseum",
+    "row": "上級_上級バトル３"
+   },
+   "logic": {
+    "progress": 4000,
+    "zone": 2011
+   },
+   "name": "Colosseum: Gladiator Battle 3",
+   "region": "Colosseum",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82300013,
+   "category": "colosseum",
+   "detect": {
+    "method": "colosseum",
+    "row": "上級_上級バトル４"
+   },
+   "logic": {
+    "progress": 4000,
+    "zone": 2011
+   },
+   "name": "Colosseum: Gladiator Battle 4",
+   "region": "Colosseum",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82300014,
+   "category": "colosseum",
+   "detect": {
+    "method": "colosseum",
+    "row": "上級_上級バトル５"
+   },
+   "logic": {
+    "progress": 4000,
+    "zone": 2011
+   },
+   "name": "Colosseum: Gladiator Battle 5",
+   "region": "Colosseum",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82300015,
+   "category": "colosseum",
+   "detect": {
+    "method": "colosseum",
+    "row": "最上級_最上級バトル１"
+   },
+   "logic": {
+    "progress": 4000,
+    "zone": 2011
+   },
+   "name": "Colosseum: Champion Battle 1",
+   "region": "Colosseum",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82300016,
+   "category": "colosseum",
+   "detect": {
+    "method": "colosseum",
+    "row": "最上級_最上級バトル２"
+   },
+   "logic": {
+    "progress": 4000,
+    "zone": 2011
+   },
+   "name": "Colosseum: Champion Battle 2",
+   "region": "Colosseum",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82300017,
+   "category": "colosseum",
+   "detect": {
+    "method": "colosseum",
+    "row": "最上級_最上級バトル３"
+   },
+   "logic": {
+    "progress": 4000,
+    "zone": 2011
+   },
+   "name": "Colosseum: Champion Battle 3",
+   "region": "Colosseum",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82300018,
+   "category": "colosseum",
+   "detect": {
+    "method": "colosseum",
+    "row": "最上級_最上級バトル４"
+   },
+   "logic": {
+    "progress": 4000,
+    "zone": 2011
+   },
+   "name": "Colosseum: Champion Battle 4",
+   "region": "Colosseum",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82300019,
+   "category": "colosseum",
+   "detect": {
+    "method": "colosseum",
+    "row": "最上級_最上級バトル５"
+   },
+   "logic": {
+    "progress": 4000,
+    "zone": 2011
+   },
+   "name": "Colosseum: Champion Battle 5",
+   "region": "Colosseum",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82410197,
+   "category": "chamber",
+   "detect": {
+    "flag": 931,
+    "method": "event_flag"
+   },
+   "logic": {
+    "progress": 3000,
+    "zone": 3290
+   },
+   "name": "Chamber of Arms: Ragnarok+ (Ultimate Trial)",
+   "region": "Chamber of Arms",
+   "requires": [],
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82410199,
+   "category": "chamber",
+   "detect": {
+    "flag": 901,
+    "method": "event_flag"
+   },
+   "logic": {
+    "progress": 3000,
+    "zone": 3290
+   },
+   "name": "Chamber of Arms: Ragnarok (Trial)",
+   "region": "Chamber of Arms",
+   "requires": [],
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82410297,
+   "category": "chamber",
+   "detect": {
+    "flag": 932,
+    "method": "event_flag"
+   },
+   "logic": {
+    "progress": 3000,
+    "zone": 3290
+   },
+   "name": "Chamber of Arms: Sasuke's Blade+ (Ultimate Trial)",
+   "region": "Chamber of Arms",
+   "requires": [
+    77102981
+   ],
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82410299,
+   "category": "chamber",
+   "detect": {
+    "flag": 902,
+    "method": "event_flag"
+   },
+   "logic": {
+    "progress": 3000,
+    "zone": 3290
+   },
+   "name": "Chamber of Arms: Sasuke's Blade (Trial)",
+   "region": "Chamber of Arms",
+   "requires": [
+    77102981
+   ],
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82410397,
+   "category": "chamber",
+   "detect": {
+    "flag": 933,
+    "method": "event_flag"
+   },
+   "logic": {
+    "progress": 3000,
+    "zone": 3290
+   },
+   "name": "Chamber of Arms: Artemis Bow+ (Ultimate Trial)",
+   "region": "Chamber of Arms",
+   "requires": [],
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82410399,
+   "category": "chamber",
+   "detect": {
+    "flag": 903,
+    "method": "event_flag"
+   },
+   "logic": {
+    "progress": 3000,
+    "zone": 3290
+   },
+   "name": "Chamber of Arms: Artemis Bow (Trial)",
+   "region": "Chamber of Arms",
+   "requires": [],
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82410496,
+   "category": "chamber",
+   "detect": {
+    "flag": 934,
+    "method": "event_flag"
+   },
+   "logic": {
+    "progress": 3000,
+    "zone": 3290
+   },
+   "name": "Chamber of Arms: Thor's Hammer+ (Ultimate Trial)",
+   "region": "Chamber of Arms",
+   "requires": [],
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82410498,
+   "category": "chamber",
+   "detect": {
+    "flag": 904,
+    "method": "event_flag"
+   },
+   "logic": {
+    "progress": 3000,
+    "zone": 3290
+   },
+   "name": "Chamber of Arms: Thor's Hammer (Trial)",
+   "region": "Chamber of Arms",
+   "requires": [],
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82410597,
+   "category": "chamber",
+   "detect": {
+    "flag": 935,
+    "method": "event_flag"
+   },
+   "logic": {
+    "progress": 3000,
+    "zone": 3290
+   },
+   "name": "Chamber of Arms: Last Resort+ (Ultimate Trial)",
+   "region": "Chamber of Arms",
+   "requires": [],
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82410599,
+   "category": "chamber",
+   "detect": {
+    "flag": 905,
+    "method": "event_flag"
+   },
+   "logic": {
+    "progress": 3000,
+    "zone": 3290
+   },
+   "name": "Chamber of Arms: Last Resort (Trial)",
+   "region": "Chamber of Arms",
+   "requires": [],
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82410696,
+   "category": "chamber",
+   "detect": {
+    "flag": 938,
+    "method": "event_flag"
+   },
+   "logic": {
+    "progress": 3000,
+    "zone": 3290
+   },
+   "name": "Chamber of Arms: Fire Birch+ (Ultimate Trial)",
+   "region": "Chamber of Arms",
+   "requires": [
+    77106971
+   ],
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82410698,
+   "category": "chamber",
+   "detect": {
+    "flag": 908,
+    "method": "event_flag"
+   },
+   "logic": {
+    "progress": 3000,
+    "zone": 3290
+   },
+   "name": "Chamber of Arms: Fire Birch (Trial)",
+   "region": "Chamber of Arms",
+   "requires": [
+    77106971
+   ],
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82410797,
+   "category": "chamber",
+   "detect": {
+    "flag": 936,
+    "method": "event_flag"
+   },
+   "logic": {
+    "progress": 3000,
+    "zone": 3290
+   },
+   "name": "Chamber of Arms: Arcturus+ (Ultimate Trial)",
+   "region": "Chamber of Arms",
+   "requires": [
+    77107981
+   ],
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82410799,
+   "category": "chamber",
+   "detect": {
+    "flag": 906,
+    "method": "event_flag"
+   },
+   "logic": {
+    "progress": 3000,
+    "zone": 3290
+   },
+   "name": "Chamber of Arms: Arcturus (Trial)",
+   "region": "Chamber of Arms",
+   "requires": [
+    77107981
+   ],
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82410897,
+   "category": "chamber",
+   "detect": {
+    "flag": 937,
+    "method": "event_flag"
+   },
+   "logic": {
+    "progress": 3000,
+    "zone": 3290
+   },
+   "name": "Chamber of Arms: Wizard's Rod+ (Ultimate Trial)",
+   "region": "Chamber of Arms",
+   "requires": [
+    77108981
+   ],
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82410899,
+   "category": "chamber",
+   "detect": {
+    "flag": 907,
+    "method": "event_flag"
+   },
+   "logic": {
+    "progress": 3000,
+    "zone": 3290
+   },
+   "name": "Chamber of Arms: Wizard's Rod (Trial)",
+   "region": "Chamber of Arms",
+   "requires": [
+    77108981
+   ],
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82411097,
+   "category": "chamber",
+   "detect": {
+    "flag": 940,
+    "method": "event_flag"
+   },
+   "logic": {
+    "progress": 3000,
+    "zone": 3290
+   },
+   "name": "Chamber of Arms: Mirage Vest+ (Ultimate Trial)",
+   "region": "Chamber of Arms",
+   "requires": [],
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82411099,
+   "category": "chamber",
+   "detect": {
+    "flag": 910,
+    "method": "event_flag"
+   },
+   "logic": {
+    "progress": 3000,
+    "zone": 3290
+   },
+   "name": "Chamber of Arms: Mirage Vest (Trial)",
+   "region": "Chamber of Arms",
+   "requires": [],
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82411397,
+   "category": "chamber",
+   "detect": {
+    "flag": 939,
+    "method": "event_flag"
+   },
+   "logic": {
+    "progress": 3000,
+    "zone": 3290
+   },
+   "name": "Chamber of Arms: Tatenashi Armor+ (Ultimate Trial)",
+   "region": "Chamber of Arms",
+   "requires": [],
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82411399,
+   "category": "chamber",
+   "detect": {
+    "flag": 909,
+    "method": "event_flag"
+   },
+   "logic": {
+    "progress": 3000,
+    "zone": 3290
+   },
+   "name": "Chamber of Arms: Tatenashi Armor (Trial)",
+   "region": "Chamber of Arms",
+   "requires": [],
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82411597,
+   "category": "chamber",
+   "detect": {
+    "flag": 941,
+    "method": "event_flag"
+   },
+   "logic": {
+    "progress": 3000,
+    "zone": 3290
+   },
+   "name": "Chamber of Arms: Lordly Robes+ (Ultimate Trial)",
+   "region": "Chamber of Arms",
+   "requires": [],
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82411599,
+   "category": "chamber",
+   "detect": {
+    "flag": 911,
+    "method": "event_flag"
+   },
+   "logic": {
+    "progress": 3000,
+    "zone": 3290
+   },
+   "name": "Chamber of Arms: Lordly Robes (Trial)",
+   "region": "Chamber of Arms",
+   "requires": [],
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82412097,
+   "category": "chamber",
+   "detect": {
+    "flag": 942,
+    "method": "event_flag"
+   },
+   "logic": {
+    "progress": 3000,
+    "zone": 3290
+   },
+   "name": "Chamber of Arms: Gold Hairpin+ (Ultimate Trial)",
+   "region": "Chamber of Arms",
+   "requires": [
+    77120981
+   ],
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82412099,
+   "category": "chamber",
+   "detect": {
+    "flag": 912,
+    "method": "event_flag"
+   },
+   "logic": {
+    "progress": 3000,
+    "zone": 3290
+   },
+   "name": "Chamber of Arms: Gold Hairpin (Trial)",
+   "region": "Chamber of Arms",
+   "requires": [
+    77120981
+   ],
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82510451,
+   "category": "esper",
+   "detect": {
+    "flag": 90,
+    "method": "event_flag"
+   },
+   "logic": {
+    "progress": 2000,
+    "zone": 3030
+   },
+   "name": "Esper: Siren",
+   "region": "Espers",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82510452,
+   "category": "esper",
+   "detect": {
+    "flag": 94,
+    "method": "event_flag"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Esper: Ifrit",
+   "region": "Espers",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82510453,
+   "category": "esper",
+   "detect": {
+    "flag": 95,
+    "method": "event_flag"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Esper: Shiva",
+   "region": "Espers",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82510454,
+   "category": "esper",
+   "detect": {
+    "flag": 92,
+    "method": "event_flag"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Esper: Ramuh",
+   "region": "Espers",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82510455,
+   "category": "esper",
+   "detect": {
+    "flag": 91,
+    "method": "event_flag"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Esper: Carbuncle",
+   "region": "Espers",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82510456,
+   "category": "esper",
+   "detect": {
+    "flag": 97,
+    "method": "event_flag"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Esper: Odin",
+   "region": "Espers",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82510457,
+   "category": "esper",
+   "detect": {
+    "flag": 96,
+    "method": "event_flag"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Esper: Titan",
+   "region": "Espers",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82510458,
+   "category": "esper",
+   "detect": {
+    "flag": 98,
+    "method": "event_flag"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Esper: Bahamut",
+   "region": "Espers",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82510459,
+   "category": "esper",
+   "detect": {
+    "flag": 93,
+    "method": "event_flag"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Esper: Leviathan",
+   "region": "Espers",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600000,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 0
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 0",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600001,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 1
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 1",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600003,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 3
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 3",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600004,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 4
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 4",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600005,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 5
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 5",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600007,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 7
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 7",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600011,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 11
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 11",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600021,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 21
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 21",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600022,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 22
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 22",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600024,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 24
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 24",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600025,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 25
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 25",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600026,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 26
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 26",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600027,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 27
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 27",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600030,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 30
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 30",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600031,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 31
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 31",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600032,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 32
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 32",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600033,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 33
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 33",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600034,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 34
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 34",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600035,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 35
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 35",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600036,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 36
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 36",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600037,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 37
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 37",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600039,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 39
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 39",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600045,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 45
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 45",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600046,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 46
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 46",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600047,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 47
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 47",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600048,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 48
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 48",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600049,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 49
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 49",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600050,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 50
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 50",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600051,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 51
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 51",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600052,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 52
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 52",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600053,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 53
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 53",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600054,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 54
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 54",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600055,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 55
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 55",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600056,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 56
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 56",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600057,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 57
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 57",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600058,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 58
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 58",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600068,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 68
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 68",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600076,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 76
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 76",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600077,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 77
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 77",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600082,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 82
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 82",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600083,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 83
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 83",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600094,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 94
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 94",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600095,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 95
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 95",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600096,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 96
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 96",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600097,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 97
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 97",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600098,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 98
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 98",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600099,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 99
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 99",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600100,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 100
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 100",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600102,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 102
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 102",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600104,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 104
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 104",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600105,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 105
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 105",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600113,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 113
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 113",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600115,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 115
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 115",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600116,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 116
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 116",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600124,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 124
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 124",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600127,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 127
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 127",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600128,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 128
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 128",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600130,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 130
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 130",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600136,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 136
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 136",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600137,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 137
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 137",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600139,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 139
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 139",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600143,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 143
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 143",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600144,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 144
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 144",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600145,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 145
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 145",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600148,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 148
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 148",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600149,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 149
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 149",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600150,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 150
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 150",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600154,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 154
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 154",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600155,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 155
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 155",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600156,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 156
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 156",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600157,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 157
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 157",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600158,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 158
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 158",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600159,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 159
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 159",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600160,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 160
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 160",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600161,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 161
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 161",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600162,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 162
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 162",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600163,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 163
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 163",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600164,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 164
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 164",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600165,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 165
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 165",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600166,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 166
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 166",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600167,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 167
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 167",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600169,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 169
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 169",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600178,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 178
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 178",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600179,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 179
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 179",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600180,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 180
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 180",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600181,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 181
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 181",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600182,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 182
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 182",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600184,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 184
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 184",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600185,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 185
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 185",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600186,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 186
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 186",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600187,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 187
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 187",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600188,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 188
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 188",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82600189,
+   "category": "pickup",
+   "detect": {
+    "map_id": 1000,
+    "method": "treasure_box_noid",
+    "unique_id": 189
+   },
+   "logic": {
+    "progress": 9000,
+    "zone": null
+   },
+   "name": "World Map - Pickup 189",
+   "region": "World Map",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700001,
+   "category": "shard",
+   "detect": {
+    "count": 1,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 1 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700002,
+   "category": "shard",
+   "detect": {
+    "count": 2,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 2 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700003,
+   "category": "shard",
+   "detect": {
+    "count": 3,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 3 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700004,
+   "category": "shard",
+   "detect": {
+    "count": 4,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 4 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700005,
+   "category": "shard",
+   "detect": {
+    "count": 5,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 5 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700006,
+   "category": "shard",
+   "detect": {
+    "count": 6,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 6 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700007,
+   "category": "shard",
+   "detect": {
+    "count": 7,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 7 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700008,
+   "category": "shard",
+   "detect": {
+    "count": 8,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 8 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700009,
+   "category": "shard",
+   "detect": {
+    "count": 9,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 9 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700010,
+   "category": "shard",
+   "detect": {
+    "count": 10,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 10 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700011,
+   "category": "shard",
+   "detect": {
+    "count": 11,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 11 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700012,
+   "category": "shard",
+   "detect": {
+    "count": 12,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 12 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700013,
+   "category": "shard",
+   "detect": {
+    "count": 13,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 13 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700014,
+   "category": "shard",
+   "detect": {
+    "count": 14,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 14 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700015,
+   "category": "shard",
+   "detect": {
+    "count": 15,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 15 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700016,
+   "category": "shard",
+   "detect": {
+    "count": 16,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 16 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700017,
+   "category": "shard",
+   "detect": {
+    "count": 17,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 17 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700018,
+   "category": "shard",
+   "detect": {
+    "count": 18,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 18 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700019,
+   "category": "shard",
+   "detect": {
+    "count": 19,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 19 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700020,
+   "category": "shard",
+   "detect": {
+    "count": 20,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 20 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700021,
+   "category": "shard",
+   "detect": {
+    "count": 21,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 21 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700022,
+   "category": "shard",
+   "detect": {
+    "count": 22,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 22 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700023,
+   "category": "shard",
+   "detect": {
+    "count": 23,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 23 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700024,
+   "category": "shard",
+   "detect": {
+    "count": 24,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 24 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700025,
+   "category": "shard",
+   "detect": {
+    "count": 25,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 25 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700026,
+   "category": "shard",
+   "detect": {
+    "count": 26,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 26 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700027,
+   "category": "shard",
+   "detect": {
+    "count": 27,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 27 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700028,
+   "category": "shard",
+   "detect": {
+    "count": 28,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 28 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700029,
+   "category": "shard",
+   "detect": {
+    "count": 29,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 29 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700030,
+   "category": "shard",
+   "detect": {
+    "count": 30,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 30 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700031,
+   "category": "shard",
+   "detect": {
+    "count": 31,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 31 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700032,
+   "category": "shard",
+   "detect": {
+    "count": 32,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 32 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700033,
+   "category": "shard",
+   "detect": {
+    "count": 33,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 33 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700034,
+   "category": "shard",
+   "detect": {
+    "count": 34,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 34 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700035,
+   "category": "shard",
+   "detect": {
+    "count": 35,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 35 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700036,
+   "category": "shard",
+   "detect": {
+    "count": 36,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 36 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700037,
+   "category": "shard",
+   "detect": {
+    "count": 37,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 37 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700038,
+   "category": "shard",
+   "detect": {
+    "count": 38,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 38 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700039,
+   "category": "shard",
+   "detect": {
+    "count": 39,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 39 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700040,
+   "category": "shard",
+   "detect": {
+    "count": 40,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 40 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700041,
+   "category": "shard",
+   "detect": {
+    "count": 41,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 41 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700042,
+   "category": "shard",
+   "detect": {
+    "count": 42,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 42 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700043,
+   "category": "shard",
+   "detect": {
+    "count": 43,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 43 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700044,
+   "category": "shard",
+   "detect": {
+    "count": 44,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 44 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700045,
+   "category": "shard",
+   "detect": {
+    "count": 45,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 45 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700046,
+   "category": "shard",
+   "detect": {
+    "count": 46,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 46 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700047,
+   "category": "shard",
+   "detect": {
+    "count": 47,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 47 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700048,
+   "category": "shard",
+   "detect": {
+    "count": 48,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 48 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700049,
+   "category": "shard",
+   "detect": {
+    "count": 49,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 49 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700050,
+   "category": "shard",
+   "detect": {
+    "count": 50,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 50 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700051,
+   "category": "shard",
+   "detect": {
+    "count": 51,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 51 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700052,
+   "category": "shard",
+   "detect": {
+    "count": 52,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 52 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700053,
+   "category": "shard",
+   "detect": {
+    "count": 53,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 53 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700054,
+   "category": "shard",
+   "detect": {
+    "count": 54,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 54 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700055,
+   "category": "shard",
+   "detect": {
+    "count": 55,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 55 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700056,
+   "category": "shard",
+   "detect": {
+    "count": 56,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 56 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700057,
+   "category": "shard",
+   "detect": {
+    "count": 57,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 57 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700058,
+   "category": "shard",
+   "detect": {
+    "count": 58,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 58 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700059,
+   "category": "shard",
+   "detect": {
+    "count": 59,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 59 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700060,
+   "category": "shard",
+   "detect": {
+    "count": 60,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 60 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700061,
+   "category": "shard",
+   "detect": {
+    "count": 61,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 61 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700062,
+   "category": "shard",
+   "detect": {
+    "count": 62,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 62 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700063,
+   "category": "shard",
+   "detect": {
+    "count": 63,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 63 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700064,
+   "category": "shard",
+   "detect": {
+    "count": 64,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 64 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700065,
+   "category": "shard",
+   "detect": {
+    "count": 65,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 65 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700066,
+   "category": "shard",
+   "detect": {
+    "count": 66,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 66 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700067,
+   "category": "shard",
+   "detect": {
+    "count": 67,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 67 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700068,
+   "category": "shard",
+   "detect": {
+    "count": 68,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 68 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700069,
+   "category": "shard",
+   "detect": {
+    "count": 69,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 69 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700070,
+   "category": "shard",
+   "detect": {
+    "count": 70,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 70 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700071,
+   "category": "shard",
+   "detect": {
+    "count": 71,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 71 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700072,
+   "category": "shard",
+   "detect": {
+    "count": 72,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 72 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700073,
+   "category": "shard",
+   "detect": {
+    "count": 73,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 73 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700074,
+   "category": "shard",
+   "detect": {
+    "count": 74,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 74 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700075,
+   "category": "shard",
+   "detect": {
+    "count": 75,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 75 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700076,
+   "category": "shard",
+   "detect": {
+    "count": 76,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 76 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700077,
+   "category": "shard",
+   "detect": {
+    "count": 77,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 77 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700078,
+   "category": "shard",
+   "detect": {
+    "count": 78,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 78 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700079,
+   "category": "shard",
+   "detect": {
+    "count": 79,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 79 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700080,
+   "category": "shard",
+   "detect": {
+    "count": 80,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 80 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700081,
+   "category": "shard",
+   "detect": {
+    "count": 81,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 81 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700082,
+   "category": "shard",
+   "detect": {
+    "count": 82,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 82 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700083,
+   "category": "shard",
+   "detect": {
+    "count": 83,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 83 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700084,
+   "category": "shard",
+   "detect": {
+    "count": 84,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 84 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700085,
+   "category": "shard",
+   "detect": {
+    "count": 85,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 85 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700086,
+   "category": "shard",
+   "detect": {
+    "count": 86,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 86 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700087,
+   "category": "shard",
+   "detect": {
+    "count": 87,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 87 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700088,
+   "category": "shard",
+   "detect": {
+    "count": 88,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 88 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700089,
+   "category": "shard",
+   "detect": {
+    "count": 89,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 89 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700090,
+   "category": "shard",
+   "detect": {
+    "count": 90,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 90 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700091,
+   "category": "shard",
+   "detect": {
+    "count": 91,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 91 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700092,
+   "category": "shard",
+   "detect": {
+    "count": 92,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 92 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700093,
+   "category": "shard",
+   "detect": {
+    "count": 93,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 93 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700094,
+   "category": "shard",
+   "detect": {
+    "count": 94,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 94 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700095,
+   "category": "shard",
+   "detect": {
+    "count": 95,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 95 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700096,
+   "category": "shard",
+   "detect": {
+    "count": 96,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 96 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700097,
+   "category": "shard",
+   "detect": {
+    "count": 97,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 97 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700098,
+   "category": "shard",
+   "detect": {
+    "count": 98,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 98 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  },
+  {
+   "ap_id": 82700099,
+   "category": "shard",
+   "detect": {
+    "count": 99,
+    "method": "shard_count"
+   },
+   "logic": {
+    "all": true
+   },
+   "name": "Tablet Shards: 99 Collected",
+   "region": "Tablet Shards",
+   "vanilla_item": null
+  }
+ ]
+}

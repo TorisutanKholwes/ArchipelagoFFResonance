@@ -1,0 +1,701 @@
+{
+ "start_zones": [
+  2000,
+  2011,
+  2020,
+  2030,
+  2040,
+  3001,
+  3030,
+  3040
+ ],
+ "story_steps": [
+  {
+   "progress": 1000,
+   "zone": 2000
+  },
+  {
+   "progress": 1000,
+   "zone": 2011
+  },
+  {
+   "progress": 1000,
+   "zone": 2040
+  },
+  {
+   "progress": 1000,
+   "zone": 3001
+  },
+  {
+   "progress": 1020,
+   "zone": 3001
+  },
+  {
+   "progress": 1050,
+   "zone": 2000
+  },
+  {
+   "progress": 1130,
+   "zone": 2020
+  },
+  {
+   "progress": 1170,
+   "zone": 2040
+  },
+  {
+   "progress": 1180,
+   "zone": 3040
+  },
+  {
+   "progress": 1205,
+   "zone": 2030
+  },
+  {
+   "progress": 1220,
+   "zone": 3030
+  },
+  {
+   "progress": 2000,
+   "zone": 2050
+  },
+  {
+   "progress": 2000,
+   "zone": 2060
+  },
+  {
+   "progress": 2000,
+   "zone": 3060
+  },
+  {
+   "progress": 2030,
+   "zone": 3050
+  },
+  {
+   "progress": 2080,
+   "zone": 3060
+  },
+  {
+   "progress": 2090,
+   "zone": 3060
+  },
+  {
+   "progress": 2120,
+   "zone": 3070
+  },
+  {
+   "progress": 2140,
+   "zone": 2060
+  },
+  {
+   "progress": 3000,
+   "zone": 2000
+  },
+  {
+   "progress": 3000,
+   "zone": 2070
+  },
+  {
+   "progress": 3000,
+   "zone": 2090
+  },
+  {
+   "progress": 3000,
+   "zone": 3100
+  },
+  {
+   "progress": 3000,
+   "zone": 3110
+  },
+  {
+   "progress": 3020,
+   "zone": 3080
+  },
+  {
+   "progress": 3040,
+   "zone": 2070
+  },
+  {
+   "progress": 3050,
+   "zone": 2070
+  },
+  {
+   "progress": 3100,
+   "zone": 2081
+  },
+  {
+   "progress": 3110,
+   "zone": 2070
+  },
+  {
+   "progress": 3130,
+   "zone": 3100
+  },
+  {
+   "progress": 3150,
+   "zone": 2090
+  },
+  {
+   "progress": 3170,
+   "zone": 3110
+  },
+  {
+   "progress": 3190,
+   "zone": 2070
+  },
+  {
+   "progress": 4000,
+   "zone": 2060
+  },
+  {
+   "progress": 4000,
+   "zone": 2100
+  },
+  {
+   "progress": 4000,
+   "zone": 2120
+  },
+  {
+   "progress": 4000,
+   "zone": 3131
+  },
+  {
+   "progress": 4000,
+   "zone": 2110
+  },
+  {
+   "progress": 4010,
+   "zone": 2100
+  },
+  {
+   "progress": 4060,
+   "zone": 2110
+  },
+  {
+   "progress": 4100,
+   "zone": 2120
+  },
+  {
+   "progress": 4130,
+   "zone": 3131
+  },
+  {
+   "progress": 4150,
+   "zone": 2120
+  },
+  {
+   "progress": 4170,
+   "zone": 2110
+  },
+  {
+   "progress": 4190,
+   "zone": 2110
+  },
+  {
+   "progress": 4220,
+   "zone": 2110
+  },
+  {
+   "progress": 4230,
+   "zone": 2110
+  },
+  {
+   "progress": 4250,
+   "zone": 2110
+  },
+  {
+   "progress": 5000,
+   "zone": 2000
+  },
+  {
+   "progress": 5000,
+   "zone": 2130
+  },
+  {
+   "progress": 5000,
+   "zone": 3200
+  },
+  {
+   "progress": 5010,
+   "zone": 2130
+  },
+  {
+   "progress": 5080,
+   "zone": 2130
+  },
+  {
+   "progress": 5170,
+   "zone": 2130
+  },
+  {
+   "progress": 5180,
+   "zone": 3200
+  },
+  {
+   "progress": 5280,
+   "zone": 3200
+  },
+  {
+   "progress": 6000,
+   "zone": 2000
+  },
+  {
+   "progress": 6000,
+   "zone": 2160
+  },
+  {
+   "progress": 6000,
+   "zone": 3230
+  },
+  {
+   "progress": 6000,
+   "zone": 3250
+  },
+  {
+   "progress": 6005,
+   "zone": 2150
+  },
+  {
+   "progress": 6020,
+   "zone": 3220
+  },
+  {
+   "progress": 6070,
+   "zone": 3230
+  },
+  {
+   "progress": 6100,
+   "zone": 3240
+  },
+  {
+   "progress": 6120,
+   "zone": 3250
+  },
+  {
+   "progress": 7000,
+   "zone": 2081
+  },
+  {
+   "progress": 7000,
+   "zone": 3260
+  },
+  {
+   "progress": 7005,
+   "zone": 2170
+  },
+  {
+   "progress": 7020,
+   "zone": 3260
+  },
+  {
+   "progress": 7090,
+   "zone": 3280
+  },
+  {
+   "progress": 8000,
+   "zone": 2011
+  },
+  {
+   "progress": 8000,
+   "zone": 2030
+  },
+  {
+   "progress": 8000,
+   "zone": 2050
+  },
+  {
+   "progress": 8000,
+   "zone": 2070
+  },
+  {
+   "progress": 8000,
+   "zone": 2081
+  },
+  {
+   "progress": 8000,
+   "zone": 2110
+  },
+  {
+   "progress": 8000,
+   "zone": 2130
+  },
+  {
+   "progress": 8000,
+   "zone": 2170
+  },
+  {
+   "progress": 8000,
+   "zone": 3001
+  },
+  {
+   "progress": 8000,
+   "zone": 3280
+  }
+ ],
+ "zones": [
+  {
+   "id": 2000,
+   "item": "Town of Mitra Access",
+   "reach_progress": 1050
+  },
+  {
+   "id": 2011,
+   "item": "Grandshelt, the Royal Capital Access",
+   "reach_progress": 2000
+  },
+  {
+   "id": 2020,
+   "item": "Village of Kol Access",
+   "reach_progress": 1130
+  },
+  {
+   "id": 2030,
+   "item": "Grandport Harbor Access",
+   "reach_progress": 1205
+  },
+  {
+   "id": 2031,
+   "item": "Oblivion Palace Access",
+   "reach_progress": 2000
+  },
+  {
+   "id": 2040,
+   "item": "Town of Felicitas Access",
+   "reach_progress": 1170
+  },
+  {
+   "id": 2050,
+   "item": "Dwarven Forge Access",
+   "reach_progress": 3000
+  },
+  {
+   "id": 2060,
+   "item": "Dilmagia, the Machinopolis Access",
+   "reach_progress": 2000
+  },
+  {
+   "id": 2070,
+   "item": "Olderion, the Aquapolis Access",
+   "reach_progress": 3000
+  },
+  {
+   "id": 2081,
+   "item": "Lake Dorr Access",
+   "reach_progress": 3100
+  },
+  {
+   "id": 2090,
+   "item": "Town of Amore Access",
+   "reach_progress": 3150
+  },
+  {
+   "id": 2100,
+   "item": "Mozul Station Access",
+   "reach_progress": 4000
+  },
+  {
+   "id": 2102,
+   "item": "Capital Station Access",
+   "reach_progress": 5000
+  },
+  {
+   "id": 2110,
+   "item": "Zoldaad, the Imperial Capital Access",
+   "reach_progress": 4060
+  },
+  {
+   "id": 2120,
+   "item": "Rebel Hideout Access",
+   "reach_progress": 4110
+  },
+  {
+   "id": 2130,
+   "item": "Mysidia, the Magiapolis Access",
+   "reach_progress": 5020
+  },
+  {
+   "id": 2140,
+   "item": "Village of Sunioo Access",
+   "reach_progress": 6000
+  },
+  {
+   "id": 2150,
+   "item": "Gaberada, the Undertown Access",
+   "reach_progress": 6005
+  },
+  {
+   "id": 2160,
+   "item": "Town of Duggle Access",
+   "reach_progress": 7000
+  },
+  {
+   "id": 2170,
+   "item": "Town of Sian Access",
+   "reach_progress": 7005
+  },
+  {
+   "id": 2180,
+   "item": "Lake Ryusei Access",
+   "reach_progress": 8000
+  },
+  {
+   "id": 2190,
+   "item": "Abandoned Cabin Access",
+   "reach_progress": 8000
+  },
+  {
+   "id": 3001,
+   "item": "Earth Shrine Access",
+   "reach_progress": 1020
+  },
+  {
+   "id": 3010,
+   "item": "Dragon's Maw Access",
+   "reach_progress": 8000
+  },
+  {
+   "id": 3030,
+   "item": "Siren's Tower Access",
+   "reach_progress": 1220
+  },
+  {
+   "id": 3031,
+   "item": "Cavern of Swords Access",
+   "reach_progress": 2000
+  },
+  {
+   "id": 3040,
+   "item": "Kolobos Ruins Access",
+   "reach_progress": 1180
+  },
+  {
+   "id": 3050,
+   "item": "Mt. Thunderclap Access",
+   "reach_progress": 2030
+  },
+  {
+   "id": 3060,
+   "item": "Mobliz Shipyard Access",
+   "reach_progress": 2080
+  },
+  {
+   "id": 3070,
+   "item": "Wind Shrine Access",
+   "reach_progress": 2120
+  },
+  {
+   "id": 3080,
+   "item": "Cave of Waters Access",
+   "reach_progress": 3020
+  },
+  {
+   "id": 3100,
+   "item": "Waterfall Way Access",
+   "reach_progress": 3130
+  },
+  {
+   "id": 3110,
+   "item": "Water Shrine Access",
+   "reach_progress": 3170
+  },
+  {
+   "id": 3111,
+   "item": "Ruby Cave Access",
+   "reach_progress": 4000
+  },
+  {
+   "id": 3131,
+   "item": "Weapons Factory Access",
+   "reach_progress": 4130
+  },
+  {
+   "id": 3180,
+   "item": "Nameless Ruins Access",
+   "reach_progress": 6000
+  },
+  {
+   "id": 3200,
+   "item": "Tower of Mysidia Access",
+   "reach_progress": 5180
+  },
+  {
+   "id": 3213,
+   "item": "Victoria's Shrine Access",
+   "reach_progress": 6000
+  },
+  {
+   "id": 3220,
+   "item": "Research Center Ruins Access",
+   "reach_progress": 6020
+  },
+  {
+   "id": 3230,
+   "item": "Rugged Mountain Path Access",
+   "reach_progress": 6070
+  },
+  {
+   "id": 3240,
+   "item": "Gronoa Shrine Access",
+   "reach_progress": 6100
+  },
+  {
+   "id": 3250,
+   "item": "Sanctissimus Shrine Access",
+   "reach_progress": 6120
+  },
+  {
+   "id": 3260,
+   "item": "Mt. Reizan Access",
+   "reach_progress": 7020
+  },
+  {
+   "id": 3280,
+   "item": "Crystal Tower Access",
+   "reach_progress": 7090
+  },
+  {
+   "id": 3290,
+   "item": "Chamber of Arms Access",
+   "reach_progress": 3000
+  },
+  {
+   "id": 10001,
+   "item": "Lost Cave Access",
+   "reach_progress": 5000
+  },
+  {
+   "id": 10030,
+   "item": "Infernal Hollow Access",
+   "reach_progress": 5000
+  },
+  {
+   "id": 10031,
+   "item": "Quarry Cave Access",
+   "reach_progress": 5000
+  },
+  {
+   "id": 10051,
+   "item": "Marauder Cave Access",
+   "reach_progress": 2000
+  },
+  {
+   "id": 10052,
+   "item": "Shoggoth Cave Access",
+   "reach_progress": 3000
+  },
+  {
+   "id": 10053,
+   "item": "Rukh Cave Access",
+   "reach_progress": 4000
+  },
+  {
+   "id": 10054,
+   "item": "Mindflayer Cave Access",
+   "reach_progress": 4000
+  },
+  {
+   "id": 10055,
+   "item": "Gogmagog Cave Access",
+   "reach_progress": 5000
+  },
+  {
+   "id": 10056,
+   "item": "Pyroviper Cave Access",
+   "reach_progress": 5000
+  },
+  {
+   "id": 10057,
+   "item": "Salome Cave Access",
+   "reach_progress": 6000
+  },
+  {
+   "id": 10058,
+   "item": "Jotunn Cave Access",
+   "reach_progress": 6000
+  },
+  {
+   "id": 10059,
+   "item": "Malboro Varietas Cave Access",
+   "reach_progress": 4000
+  },
+  {
+   "id": 10060,
+   "item": "Bladerain Stele Access",
+   "reach_progress": 7000
+  },
+  {
+   "id": 10061,
+   "item": "Tartarosaurus Cave Access",
+   "reach_progress": 8000
+  },
+  {
+   "id": 10062,
+   "item": "Catacumba Cave Access",
+   "reach_progress": 7000
+  },
+  {
+   "id": 10063,
+   "item": "Necromonarch Cave Access",
+   "reach_progress": 7000
+  },
+  {
+   "id": 10064,
+   "item": "Humbaba Cave Access",
+   "reach_progress": 7000
+  },
+  {
+   "id": 10065,
+   "item": "Titanoraidos Cave Access",
+   "reach_progress": 8000
+  },
+  {
+   "id": 10066,
+   "item": "Malboro Menace Cave Access",
+   "reach_progress": 8000
+  },
+  {
+   "id": 10201,
+   "item": "Sanctum of Light (Kolobos) Access",
+   "reach_progress": 2000
+  },
+  {
+   "id": 10208,
+   "item": "Sanctum of Light (Lanzelt) Access",
+   "reach_progress": 2000
+  },
+  {
+   "id": 10213,
+   "item": "Sanctum of Light (Magi Nation Mysidia) Access",
+   "reach_progress": 6000
+  },
+  {
+   "id": 10214,
+   "item": "Sanctum of Light (Magi Nation Mysidia) 2 Access",
+   "reach_progress": 6000
+  },
+  {
+   "id": 10215,
+   "item": "Sanctum of Light (Magi Nation Mysidia) 3 Access",
+   "reach_progress": 6000
+  },
+  {
+   "id": 10216,
+   "item": "Sanctum of Light (Grandshelt) Access",
+   "reach_progress": 5000
+  },
+  {
+   "id": 10218,
+   "item": "Whirlpool Hollow Access",
+   "reach_progress": 5000
+  },
+  {
+   "id": 10223,
+   "item": "Sanctum of WoL Access",
+   "reach_progress": 2000
+  },
+  {
+   "id": 11000,
+   "item": "Secluded Dwelling Access",
+   "reach_progress": 4000
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "chains": [
+  {
+   "chain": "weapon",
+   "copies": 7,
+   "item": "Progressive Weapon Shop"
+  },
+  {
+   "chain": "armor",
+   "copies": 7,
+   "item": "Progressive Armor Shop"
+  },
+  {
+   "chain": "accessory",
+   "copies": 6,
+   "item": "Progressive Accessory Shop"
+  }
+ ]
+}

@@ -1,0 +1,2760 @@
+{
+ "items": [
+  {
+   "ap_id": 77000011,
+   "apply": {
+    "item_id": 1,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Potion",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000013,
+   "apply": {
+    "item_id": 1,
+    "method": "inventory",
+    "num": 3
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "filler_weight": 4,
+   "name": "Potion x3",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000022,
+   "apply": {
+    "item_id": 2,
+    "method": "inventory",
+    "num": 2
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "filler_weight": 3,
+   "name": "Hi-Potion x2",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000031,
+   "apply": {
+    "item_id": 3,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Ether",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000032,
+   "apply": {
+    "item_id": 3,
+    "method": "inventory",
+    "num": 2
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "filler_weight": 2,
+   "name": "Ether x2",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000041,
+   "apply": {
+    "item_id": 4,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Phoenix Down",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000042,
+   "apply": {
+    "item_id": 4,
+    "method": "inventory",
+    "num": 2
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "filler_weight": 2,
+   "name": "Phoenix Down x2",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000043,
+   "apply": {
+    "item_id": 4,
+    "method": "inventory",
+    "num": 3
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Phoenix Down x3",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000073,
+   "apply": {
+    "item_id": 7,
+    "method": "inventory",
+    "num": 3
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Antidote Herb x3",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000074,
+   "apply": {
+    "item_id": 7,
+    "method": "inventory",
+    "num": 4
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Antidote Herb x4",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000081,
+   "apply": {
+    "item_id": 8,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Remedy",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000092,
+   "apply": {
+    "item_id": 9,
+    "method": "inventory",
+    "num": 2
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Knife of Poison x2",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000102,
+   "apply": {
+    "item_id": 10,
+    "method": "inventory",
+    "num": 2
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Eye Drops x2",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000103,
+   "apply": {
+    "item_id": 10,
+    "method": "inventory",
+    "num": 3
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Eye Drops x3",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000113,
+   "apply": {
+    "item_id": 11,
+    "method": "inventory",
+    "num": 3
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Smelling Salts x3",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000122,
+   "apply": {
+    "item_id": 12,
+    "method": "inventory",
+    "num": 2
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Echo Herb x2",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000132,
+   "apply": {
+    "item_id": 13,
+    "method": "inventory",
+    "num": 2
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Unicorn Horn x2",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000133,
+   "apply": {
+    "item_id": 13,
+    "method": "inventory",
+    "num": 3
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Unicorn Horn x3",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000141,
+   "apply": {
+    "item_id": 14,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "X-Potion",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000142,
+   "apply": {
+    "item_id": 14,
+    "method": "inventory",
+    "num": 2
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "X-Potion x2",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000182,
+   "apply": {
+    "item_id": 18,
+    "method": "inventory",
+    "num": 2
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "X-Ether x2",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000191,
+   "apply": {
+    "item_id": 19,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Healing Spring",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000192,
+   "apply": {
+    "item_id": 19,
+    "method": "inventory",
+    "num": 2
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Healing Spring x2",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000193,
+   "apply": {
+    "item_id": 19,
+    "method": "inventory",
+    "num": 3
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Healing Spring x3",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000201,
+   "apply": {
+    "item_id": 20,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Turbo Ether",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000221,
+   "apply": {
+    "item_id": 22,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Elixir",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000222,
+   "apply": {
+    "item_id": 22,
+    "method": "inventory",
+    "num": 2
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Elixir x2",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000231,
+   "apply": {
+    "item_id": 23,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Megalixir",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000242,
+   "apply": {
+    "item_id": 24,
+    "method": "inventory",
+    "num": 2
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Smoke Bomb x2",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000262,
+   "apply": {
+    "item_id": 26,
+    "method": "inventory",
+    "num": 2
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Knife of Blind x2",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000263,
+   "apply": {
+    "item_id": 26,
+    "method": "inventory",
+    "num": 3
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Knife of Blind x3",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000273,
+   "apply": {
+    "item_id": 27,
+    "method": "inventory",
+    "num": 3
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Knife of Silence x3",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000313,
+   "apply": {
+    "item_id": 31,
+    "method": "inventory",
+    "num": 3
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Mist Potion x3",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000321,
+   "apply": {
+    "item_id": 32,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Mist Hi-Potion",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000322,
+   "apply": {
+    "item_id": 32,
+    "method": "inventory",
+    "num": 2
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Mist Hi-Potion x2",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000343,
+   "apply": {
+    "item_id": 34,
+    "method": "inventory",
+    "num": 3
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Mist Ether x3",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000351,
+   "apply": {
+    "item_id": 35,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Mist Turbo Ether",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000352,
+   "apply": {
+    "item_id": 35,
+    "method": "inventory",
+    "num": 2
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Mist Turbo Ether x2",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000361,
+   "apply": {
+    "item_id": 36,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Mist X-Ether",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000371,
+   "apply": {
+    "item_id": 37,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Phoenix Pinion",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000372,
+   "apply": {
+    "item_id": 37,
+    "method": "inventory",
+    "num": 2
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Phoenix Pinion x2",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77000373,
+   "apply": {
+    "item_id": 37,
+    "method": "inventory",
+    "num": 3
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Phoenix Pinion x3",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77002001,
+   "apply": {
+    "item_id": 200,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Flame Scroll II",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77002041,
+   "apply": {
+    "item_id": 204,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Lightning Scroll II",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77002052,
+   "apply": {
+    "item_id": 205,
+    "method": "inventory",
+    "num": 2
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Water Scroll II x2",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77002063,
+   "apply": {
+    "item_id": 206,
+    "method": "inventory",
+    "num": 3
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Shuriken x3",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77002072,
+   "apply": {
+    "item_id": 207,
+    "method": "inventory",
+    "num": 2
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Fuma Shuriken x2",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77002073,
+   "apply": {
+    "item_id": 207,
+    "method": "inventory",
+    "num": 3
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Fuma Shuriken x3",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77002082,
+   "apply": {
+    "item_id": 208,
+    "method": "inventory",
+    "num": 2
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Chef's Knife x2",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77002083,
+   "apply": {
+    "item_id": 208,
+    "method": "inventory",
+    "num": 3
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Chef's Knife x3",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77002092,
+   "apply": {
+    "item_id": 209,
+    "method": "inventory",
+    "num": 2
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Flame Scroll I x2",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77002093,
+   "apply": {
+    "item_id": 209,
+    "method": "inventory",
+    "num": 3
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Flame Scroll I x3",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77002102,
+   "apply": {
+    "item_id": 210,
+    "method": "inventory",
+    "num": 2
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Ice Scroll I x2",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77002132,
+   "apply": {
+    "item_id": 213,
+    "method": "inventory",
+    "num": 2
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Lightning Scroll I x2",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77002133,
+   "apply": {
+    "item_id": 213,
+    "method": "inventory",
+    "num": 3
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Lightning Scroll I x3",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77002142,
+   "apply": {
+    "item_id": 214,
+    "method": "inventory",
+    "num": 2
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Water Scroll I x2",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77005001,
+   "apply": {
+    "item_id": 500,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Tent",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77005002,
+   "apply": {
+    "item_id": 500,
+    "method": "inventory",
+    "num": 2
+   },
+   "category": "consumable",
+   "classification": "filler",
+   "name": "Tent x2",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77101081,
+   "apply": {
+    "item_id": 10108,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Kaiser Sword",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77101181,
+   "apply": {
+    "item_id": 10118,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Moon Saber",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77101211,
+   "apply": {
+    "item_id": 10121,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Knight's Sword",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77101231,
+   "apply": {
+    "item_id": 10123,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Guardian Sword",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77101251,
+   "apply": {
+    "item_id": 10125,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Briar Edge",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77101261,
+   "apply": {
+    "item_id": 10126,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Hero's Blade",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77101941,
+   "apply": {
+    "item_id": 10194,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Apocalypse",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77101951,
+   "apply": {
+    "item_id": 10195,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Excalibur",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77101961,
+   "apply": {
+    "item_id": 10196,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Lightbringer",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77102011,
+   "apply": {
+    "item_id": 10201,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Nodachi",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77102021,
+   "apply": {
+    "item_id": 10202,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Sakura-Fubuki",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77102041,
+   "apply": {
+    "item_id": 10204,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Tsukiyo no Tachi",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77102201,
+   "apply": {
+    "item_id": 10220,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Genmato",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77102231,
+   "apply": {
+    "item_id": 10223,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Sundering Odachi",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77102241,
+   "apply": {
+    "item_id": 10224,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Kikokusenga",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77102251,
+   "apply": {
+    "item_id": 10225,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Kumobashiri",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77102951,
+   "apply": {
+    "item_id": 10295,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Masamune",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77102981,
+   "apply": {
+    "item_id": 10298,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "progression",
+   "name": "Ancient Katana",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77103151,
+   "apply": {
+    "item_id": 10315,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Compound Bow",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77103161,
+   "apply": {
+    "item_id": 10316,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Rock Piercer",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77103201,
+   "apply": {
+    "item_id": 10320,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Cure Drop",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77103211,
+   "apply": {
+    "item_id": 10321,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Seraphim Bow",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77103961,
+   "apply": {
+    "item_id": 10396,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Faerie Bow",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77104031,
+   "apply": {
+    "item_id": 10403,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Sledgehammer",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77104101,
+   "apply": {
+    "item_id": 10410,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Dreadwing Mallet",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77104111,
+   "apply": {
+    "item_id": 10411,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Morning Star",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77104151,
+   "apply": {
+    "item_id": 10415,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Piercing Mace",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77104161,
+   "apply": {
+    "item_id": 10416,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Bullseye Mace",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77104191,
+   "apply": {
+    "item_id": 10419,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Analysis Hammer",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77104951,
+   "apply": {
+    "item_id": 10495,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Pilebunker",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77105081,
+   "apply": {
+    "item_id": 10508,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "R'lyeh Text",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77105091,
+   "apply": {
+    "item_id": 10509,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Celaeno Fragments",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77105101,
+   "apply": {
+    "item_id": 10510,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Book of Eibon",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77105131,
+   "apply": {
+    "item_id": 10513,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Total Calisthenics",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77105151,
+   "apply": {
+    "item_id": 10515,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Book of Strength",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77105221,
+   "apply": {
+    "item_id": 10522,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Arch Drain",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77106031,
+   "apply": {
+    "item_id": 10603,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Lunar Whip",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77106091,
+   "apply": {
+    "item_id": 10609,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Dragon Whisker",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77106131,
+   "apply": {
+    "item_id": 10613,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Whip of Affliction",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77106971,
+   "apply": {
+    "item_id": 10697,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "progression",
+   "name": "Ancient Whip",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77107041,
+   "apply": {
+    "item_id": 10704,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Hastur Long Barrel",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77107091,
+   "apply": {
+    "item_id": 10709,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Repeater Rifle",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77107121,
+   "apply": {
+    "item_id": 10712,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Magi-Blaster",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77107131,
+   "apply": {
+    "item_id": 10713,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Arcane Long Rifle",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77107161,
+   "apply": {
+    "item_id": 10716,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Pulse Cannon",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77107171,
+   "apply": {
+    "item_id": 10717,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Barrel Blazer",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77107981,
+   "apply": {
+    "item_id": 10798,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "progression",
+   "name": "Ancient Firearm",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77108021,
+   "apply": {
+    "item_id": 10802,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Resonate Staff",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77108081,
+   "apply": {
+    "item_id": 10808,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Laevateinn",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77108111,
+   "apply": {
+    "item_id": 10811,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "War Pick",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77108151,
+   "apply": {
+    "item_id": 10815,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Impact Wand",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77108161,
+   "apply": {
+    "item_id": 10816,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Rod of Focus",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77108981,
+   "apply": {
+    "item_id": 10898,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "progression",
+   "name": "Ancient Rod",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77110021,
+   "apply": {
+    "item_id": 11002,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Black Garb",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77110031,
+   "apply": {
+    "item_id": 11003,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Prickly Straitjacket",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77110181,
+   "apply": {
+    "item_id": 11018,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Anti-Magic Gear",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77110191,
+   "apply": {
+    "item_id": 11019,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Astral Jacket",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77110211,
+   "apply": {
+    "item_id": 11021,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Arcane Coat",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77110231,
+   "apply": {
+    "item_id": 11023,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Ninja Gear",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77110241,
+   "apply": {
+    "item_id": 11024,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Hoodwink Garb",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77110251,
+   "apply": {
+    "item_id": 11025,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Mirage Jacket",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77113001,
+   "apply": {
+    "item_id": 11300,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Stout Armor",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77113151,
+   "apply": {
+    "item_id": 11315,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Armor of Gales",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77113161,
+   "apply": {
+    "item_id": 11316,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Devout's Armor",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77113191,
+   "apply": {
+    "item_id": 11319,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Fortress Gear",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77113201,
+   "apply": {
+    "item_id": 11320,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Scale Mail",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77113211,
+   "apply": {
+    "item_id": 11321,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Protective Gear",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77113221,
+   "apply": {
+    "item_id": 11322,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Tyr's Armor",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77115031,
+   "apply": {
+    "item_id": 11503,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Cotton Robe",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77115081,
+   "apply": {
+    "item_id": 11508,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Cape of the Raiju",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77115141,
+   "apply": {
+    "item_id": 11514,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Robe of Roses",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77115211,
+   "apply": {
+    "item_id": 11521,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Protective Overcoat",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77115221,
+   "apply": {
+    "item_id": 11522,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Aegis Robe",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77115241,
+   "apply": {
+    "item_id": 11524,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Guarding Gown",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77115261,
+   "apply": {
+    "item_id": 11526,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Mirage Robe",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77115271,
+   "apply": {
+    "item_id": 11527,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Phantom Robe",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77120051,
+   "apply": {
+    "item_id": 12005,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Lucky Bell",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77120101,
+   "apply": {
+    "item_id": 12010,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Chocobo Down Charm",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77120141,
+   "apply": {
+    "item_id": 12014,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Hermes Sandals",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77120211,
+   "apply": {
+    "item_id": 12021,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Power Wristbands",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77120221,
+   "apply": {
+    "item_id": 12022,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Bulletproof Vest",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77120231,
+   "apply": {
+    "item_id": 12023,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Earrings",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77120321,
+   "apply": {
+    "item_id": 12032,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Monk's Prayer Beads",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77120341,
+   "apply": {
+    "item_id": 12034,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Insulated Gloves",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77120351,
+   "apply": {
+    "item_id": 12035,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Headband",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77120361,
+   "apply": {
+    "item_id": 12036,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Mage's Shard",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77120391,
+   "apply": {
+    "item_id": 12039,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Aquatic Veil",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77120401,
+   "apply": {
+    "item_id": 12040,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Jeweled Ring",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77120461,
+   "apply": {
+    "item_id": 12046,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Silver Key",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77120491,
+   "apply": {
+    "item_id": 12049,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Calm Armlet",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77120601,
+   "apply": {
+    "item_id": 12060,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Stagger Ring",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77120631,
+   "apply": {
+    "item_id": 12063,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Vitality Charm",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77120711,
+   "apply": {
+    "item_id": 12071,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Sniper's Eye",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77120801,
+   "apply": {
+    "item_id": 12080,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "useful",
+   "name": "Thunder God's Earrings",
+   "name_localized": true
+  },
+  {
+   "ap_id": 77120981,
+   "apply": {
+    "item_id": 12098,
+    "method": "inventory",
+    "num": 1
+   },
+   "category": "equipment",
+   "classification": "progression",
+   "name": "Ancient Accessory",
+   "name_localized": true
+  },
+  {
+   "ap_id": 78000300,
+   "apply": {
+    "amount": 300,
+    "method": "money"
+   },
+   "category": "gil",
+   "classification": "filler",
+   "name": "300 Gil",
+   "name_localized": true
+  },
+  {
+   "ap_id": 78000400,
+   "apply": {
+    "amount": 400,
+    "method": "money"
+   },
+   "category": "gil",
+   "classification": "filler",
+   "name": "400 Gil",
+   "name_localized": true
+  },
+  {
+   "ap_id": 78000500,
+   "apply": {
+    "amount": 500,
+    "method": "money"
+   },
+   "category": "gil",
+   "classification": "filler",
+   "name": "500 Gil",
+   "name_localized": true
+  },
+  {
+   "ap_id": 78000800,
+   "apply": {
+    "amount": 800,
+    "method": "money"
+   },
+   "category": "gil",
+   "classification": "filler",
+   "name": "800 Gil",
+   "name_localized": true
+  },
+  {
+   "ap_id": 78001000,
+   "apply": {
+    "amount": 1000,
+    "method": "money"
+   },
+   "category": "gil",
+   "classification": "filler",
+   "filler_weight": 3,
+   "name": "1000 Gil",
+   "name_localized": true
+  },
+  {
+   "ap_id": 78002000,
+   "apply": {
+    "amount": 2000,
+    "method": "money"
+   },
+   "category": "gil",
+   "classification": "filler",
+   "filler_weight": 2,
+   "name": "2000 Gil",
+   "name_localized": true
+  },
+  {
+   "ap_id": 78005000,
+   "apply": {
+    "amount": 5000,
+    "method": "money"
+   },
+   "category": "gil",
+   "classification": "filler",
+   "filler_weight": 1,
+   "name": "5000 Gil",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79002000,
+   "apply": {
+    "method": "zone",
+    "zone_id": 2000
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Town of Mitra Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79002011,
+   "apply": {
+    "method": "zone",
+    "zone_id": 2011
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Grandshelt, the Royal Capital Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79002020,
+   "apply": {
+    "method": "zone",
+    "zone_id": 2020
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Village of Kol Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79002030,
+   "apply": {
+    "method": "zone",
+    "zone_id": 2030
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Grandport Harbor Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79002031,
+   "apply": {
+    "method": "zone",
+    "zone_id": 2031
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Oblivion Palace Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79002040,
+   "apply": {
+    "method": "zone",
+    "zone_id": 2040
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Town of Felicitas Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79002050,
+   "apply": {
+    "method": "zone",
+    "zone_id": 2050
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Dwarven Forge Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79002060,
+   "apply": {
+    "method": "zone",
+    "zone_id": 2060
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Dilmagia, the Machinopolis Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79002070,
+   "apply": {
+    "method": "zone",
+    "zone_id": 2070
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Olderion, the Aquapolis Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79002081,
+   "apply": {
+    "method": "zone",
+    "zone_id": 2081
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Lake Dorr Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79002090,
+   "apply": {
+    "method": "zone",
+    "zone_id": 2090
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Town of Amore Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79002100,
+   "apply": {
+    "method": "zone",
+    "zone_id": 2100
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Mozul Station Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79002102,
+   "apply": {
+    "method": "zone",
+    "zone_id": 2102
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Capital Station Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79002110,
+   "apply": {
+    "method": "zone",
+    "zone_id": 2110
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Zoldaad, the Imperial Capital Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79002120,
+   "apply": {
+    "method": "zone",
+    "zone_id": 2120
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Rebel Hideout Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79002130,
+   "apply": {
+    "method": "zone",
+    "zone_id": 2130
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Mysidia, the Magiapolis Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79002140,
+   "apply": {
+    "method": "zone",
+    "zone_id": 2140
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Village of Sunioo Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79002150,
+   "apply": {
+    "method": "zone",
+    "zone_id": 2150
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Gaberada, the Undertown Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79002160,
+   "apply": {
+    "method": "zone",
+    "zone_id": 2160
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Town of Duggle Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79002170,
+   "apply": {
+    "method": "zone",
+    "zone_id": 2170
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Town of Sian Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79002180,
+   "apply": {
+    "method": "zone",
+    "zone_id": 2180
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Lake Ryusei Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79002190,
+   "apply": {
+    "method": "zone",
+    "zone_id": 2190
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Abandoned Cabin Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79003001,
+   "apply": {
+    "method": "zone",
+    "zone_id": 3001
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Earth Shrine Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79003010,
+   "apply": {
+    "method": "zone",
+    "zone_id": 3010
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Dragon's Maw Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79003030,
+   "apply": {
+    "method": "zone",
+    "zone_id": 3030
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Siren's Tower Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79003031,
+   "apply": {
+    "method": "zone",
+    "zone_id": 3031
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Cavern of Swords Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79003040,
+   "apply": {
+    "method": "zone",
+    "zone_id": 3040
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Kolobos Ruins Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79003050,
+   "apply": {
+    "method": "zone",
+    "zone_id": 3050
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Mt. Thunderclap Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79003060,
+   "apply": {
+    "method": "zone",
+    "zone_id": 3060
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Mobliz Shipyard Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79003070,
+   "apply": {
+    "method": "zone",
+    "zone_id": 3070
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Wind Shrine Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79003080,
+   "apply": {
+    "method": "zone",
+    "zone_id": 3080
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Cave of Waters Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79003100,
+   "apply": {
+    "method": "zone",
+    "zone_id": 3100
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Waterfall Way Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79003110,
+   "apply": {
+    "method": "zone",
+    "zone_id": 3110
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Water Shrine Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79003111,
+   "apply": {
+    "method": "zone",
+    "zone_id": 3111
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Ruby Cave Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79003131,
+   "apply": {
+    "method": "zone",
+    "zone_id": 3131
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Weapons Factory Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79003180,
+   "apply": {
+    "method": "zone",
+    "zone_id": 3180
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Nameless Ruins Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79003200,
+   "apply": {
+    "method": "zone",
+    "zone_id": 3200
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Tower of Mysidia Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79003213,
+   "apply": {
+    "method": "zone",
+    "zone_id": 3213
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Victoria's Shrine Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79003220,
+   "apply": {
+    "method": "zone",
+    "zone_id": 3220
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Research Center Ruins Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79003230,
+   "apply": {
+    "method": "zone",
+    "zone_id": 3230
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Rugged Mountain Path Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79003240,
+   "apply": {
+    "method": "zone",
+    "zone_id": 3240
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Gronoa Shrine Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79003250,
+   "apply": {
+    "method": "zone",
+    "zone_id": 3250
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Sanctissimus Shrine Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79003260,
+   "apply": {
+    "method": "zone",
+    "zone_id": 3260
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Mt. Reizan Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79003280,
+   "apply": {
+    "method": "zone",
+    "zone_id": 3280
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Crystal Tower Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79003290,
+   "apply": {
+    "method": "zone",
+    "zone_id": 3290
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Chamber of Arms Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79010001,
+   "apply": {
+    "method": "zone",
+    "zone_id": 10001
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Lost Cave Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79010030,
+   "apply": {
+    "method": "zone",
+    "zone_id": 10030
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Infernal Hollow Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79010031,
+   "apply": {
+    "method": "zone",
+    "zone_id": 10031
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Quarry Cave Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79010051,
+   "apply": {
+    "method": "zone",
+    "zone_id": 10051
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Marauder Cave Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79010052,
+   "apply": {
+    "method": "zone",
+    "zone_id": 10052
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Shoggoth Cave Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79010053,
+   "apply": {
+    "method": "zone",
+    "zone_id": 10053
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Rukh Cave Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79010054,
+   "apply": {
+    "method": "zone",
+    "zone_id": 10054
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Mindflayer Cave Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79010055,
+   "apply": {
+    "method": "zone",
+    "zone_id": 10055
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Gogmagog Cave Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79010056,
+   "apply": {
+    "method": "zone",
+    "zone_id": 10056
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Pyroviper Cave Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79010057,
+   "apply": {
+    "method": "zone",
+    "zone_id": 10057
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Salome Cave Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79010058,
+   "apply": {
+    "method": "zone",
+    "zone_id": 10058
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Jotunn Cave Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79010059,
+   "apply": {
+    "method": "zone",
+    "zone_id": 10059
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Malboro Varietas Cave Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79010060,
+   "apply": {
+    "method": "zone",
+    "zone_id": 10060
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Bladerain Stele Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79010061,
+   "apply": {
+    "method": "zone",
+    "zone_id": 10061
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Tartarosaurus Cave Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79010062,
+   "apply": {
+    "method": "zone",
+    "zone_id": 10062
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Catacumba Cave Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79010063,
+   "apply": {
+    "method": "zone",
+    "zone_id": 10063
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Necromonarch Cave Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79010064,
+   "apply": {
+    "method": "zone",
+    "zone_id": 10064
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Humbaba Cave Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79010065,
+   "apply": {
+    "method": "zone",
+    "zone_id": 10065
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Titanoraidos Cave Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79010066,
+   "apply": {
+    "method": "zone",
+    "zone_id": 10066
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Malboro Menace Cave Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79010201,
+   "apply": {
+    "method": "zone",
+    "zone_id": 10201
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Sanctum of Light (Kolobos) Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79010208,
+   "apply": {
+    "method": "zone",
+    "zone_id": 10208
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Sanctum of Light (Lanzelt) Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79010213,
+   "apply": {
+    "method": "zone",
+    "zone_id": 10213
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Sanctum of Light (Magi Nation Mysidia) Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79010214,
+   "apply": {
+    "method": "zone",
+    "zone_id": 10214
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Sanctum of Light (Magi Nation Mysidia) 2 Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79010215,
+   "apply": {
+    "method": "zone",
+    "zone_id": 10215
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Sanctum of Light (Magi Nation Mysidia) 3 Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79010216,
+   "apply": {
+    "method": "zone",
+    "zone_id": 10216
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Sanctum of Light (Grandshelt) Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79010218,
+   "apply": {
+    "method": "zone",
+    "zone_id": 10218
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Whirlpool Hollow Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79010223,
+   "apply": {
+    "method": "zone",
+    "zone_id": 10223
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Sanctum of WoL Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79011000,
+   "apply": {
+    "method": "zone",
+    "zone_id": 11000
+   },
+   "category": "zone",
+   "classification": "progression",
+   "name": "Secluded Dwelling Access",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79900001,
+   "apply": {
+    "chain": "weapon",
+    "method": "shop_tier"
+   },
+   "category": "shop",
+   "classification": "useful",
+   "name": "Progressive Weapon Shop",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79900002,
+   "apply": {
+    "chain": "armor",
+    "method": "shop_tier"
+   },
+   "category": "shop",
+   "classification": "useful",
+   "name": "Progressive Armor Shop",
+   "name_localized": true
+  },
+  {
+   "ap_id": 79900003,
+   "apply": {
+    "chain": "accessory",
+    "method": "shop_tier"
+   },
+   "category": "shop",
+   "classification": "useful",
+   "name": "Progressive Accessory Shop",
+   "name_localized": true
+  }
+ ]
+}
