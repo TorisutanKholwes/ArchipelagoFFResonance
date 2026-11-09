@@ -78,7 +78,8 @@ The chest gives nothing in game (the game shows "0 Gil"), and the item is sent t
 | World-map pickup checks | Works |
 | Tablet Shard checks | Works |
 | Colosseum / Chamber of Arms checks | Implemented, not yet observed in play |
-| Received-item notification | Works (game's own window; Gil not shown) |
+| Received-item notification | Works (game's own window for items) |
+| In-game Archipelago messages | Works (mod 0.13.0): top-right popups for received items with the sender, Gil, zones, shop tiers, DeathLink, hints and chat; a "recent" list in the system menu (Esc), saved per seed. Checks you send aren't announced |
 | Story-completion goal detection | Implemented, not yet observed on a real clear |
 | Progressive shops | Works (tier gear added at the chosen price, purchases, update while playing; checked in game with weapon and accessory tiers) |
 | Zone locks (entrances + fast travel) | Works (locking, live unlock and fast-travel refusal checked in game on chapter 1); story logic for later chapters comes from game data, not yet played through |
